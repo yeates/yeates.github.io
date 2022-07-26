@@ -12,14 +12,53 @@ An innate desire to teach machines human creativity infatuated me with computer 
 
 ## Publications
 
-- **Unbiased Multi-Modality Guidance for Image Inpainting**
-  <br>**Yongsheng Yu**, Dawei Du, Libo Zhang, Tiejian Luo
-  <br>ECCV 2022. [[PDF]()] [[Code]()]
-  <br>
-- **High-Fidelity Image Inpainting with GAN Inversion.**
-  <br>**Yongsheng Yu**, Libo Zhang, Heng Fan, Tiejian Luo
-  <br>ECCV 2022. [[PDF]()] [[Code]()]
-  <br>
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2022/07/26/P87oHlKk1tNDxrG.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ECCV</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="TBD">Unbiased Multi-Modality Guidance for Image Inpainting</a></div>
+      <div class="author"><strong>Yongsheng Yu</strong>, Dawei Du, Libo Zhang, Tiejian Luo</div>
+      <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em>
+      </div>
+    <div class="links">
+      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2022/07/26/Ppk4TmYCqyvf7Zl.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ECCV</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="TBD">High-Fidelity Image Inpainting with GAN Inversion</a></div>
+      <div class="author"><strong>Yongsheng Yu</strong>, Libo Zhang, Heng Fan, Tiejian Luo</div>
+      <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em>
+      </div>
+    <div class="links">
+      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
 
 ## Services
 
