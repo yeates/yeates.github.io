@@ -1,16 +1,14 @@
 ---
 layout: homepage
-
 ---
 
 ## About Me
 
-I am a machine learning engineer at [Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn), Beijing, where I work on deep learning, computer vision and reinforcement learning. Before that, I received my M.S. in Computer Science from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo. I did my bachelors at school of computer science, Southwest University of Science and Technology.
+Welcome to Yongsheng's home page. I am currently a assistant engineer at [Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn), Beijing, where I work on deep learning, computer vision, and reinforcement learning. Before that, I received my M.S. in Computer Science from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo. I did my bachelor's in Computer Science (excellence program) at Southwest University of Science and Technology.
 
 ## Research Interests
 
-- **Computer Vision:** image inpainting, 
-- **Reinforcement Learning:** model-based, , 
+An innate desire to teach machines human creativity infatuated me with computer vision. My current interests lie in green (light and efficient) image/video restoration and synthesis.
 
 ## Publications
 
@@ -20,7 +18,7 @@ I am a machine learning engineer at [Institute of Software Chinese Academy of Sc
   <br>
 - **High-Fidelity Image Inpainting with GAN Inversion.**
   <br>**Yongsheng Yu**, Libo Zhang, Heng Fan, Tiejian Luo
-  <br>ECCV 2022. [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  <br>ECCV 2022. [[PDF]()] [[Code]()]
   <br>
 
 ## Services
@@ -40,7 +38,11 @@ I am a machine learning engineer at [Institute of Software Chinese Academy of Sc
 
 **Graduate Teaching Assistant**
 
-- Advanced Software Engineering, Prof. Tiejian Luo. University of Chinese Academy of Sciences, Fall 2020 and 2021
+- *Advanced Software Engineering* at University of Chinese Academy of Sciences, Fall 2020 and 2021
 
-- Data Science, Prof. Tiejian Luo. University of Chinese Academy of Sciences (Fall 2019)
+- *Data Science* at University of Chinese Academy of Sciences, Fall 2019
 
+## Personal Interests
+- Swimming, Hiking, Bike trip, Self-drive tour
+- Cooking (Mainly Szechuan cuisine)
+- Fingerstyle guitar
