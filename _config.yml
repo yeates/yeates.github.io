@@ -18,8 +18,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
+  - run_jekyll.sh
   - minimal-light.gemspec
+  - CNAME
