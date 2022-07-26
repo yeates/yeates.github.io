@@ -29,9 +29,7 @@ An innate desire to teach machines human creativity infatuated me with computer 
 ## Awards
 
 - 3rd Place, The 1st Tencent MOBA Multi-Agent Reinforcement Learning Competition, 2021.
-
 - [Outstanding Undergraduate Award](https://www.ccf.org.cn/Awards/Awards/2018-07-31/650741.shtml), China Computer Federation, 2018.
-
 - Bronze Award, The ACM-ICPC Asia Reginal Contest, 2017.
 
 ## Teaching
@@ -39,7 +37,6 @@ An innate desire to teach machines human creativity infatuated me with computer 
 **Graduate Teaching Assistant**
 
 - *Advanced Software Engineering* at University of Chinese Academy of Sciences, Fall 2020 and 2021
-
 - *Data Science* at University of Chinese Academy of Sciences, Fall 2019
 
 ## Personal Interests
