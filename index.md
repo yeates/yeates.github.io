@@ -1,50 +1,46 @@
 ---
 layout: homepage
+
 ---
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a machine learning engineer at [Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn), Beijing, where I work on deep learning, computer vision and reinforcement learning. Before that, I received my M.S. in Computer Science from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo. I did my bachelors at school of computer science, Southwest University of Science and Technology.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Computer Vision:** image inpainting, 
+- **Reinforcement Learning:** model-based, , 
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Unbiased Multi-Modality Guidance for Image Inpainting**
+  <br>**Yongsheng Yu**, Dawei Du, Libo Zhang, Tiejian Luo
+  <br>ECCV 2022. [[PDF]()] [[Code]()]
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+- **High-Fidelity Image Inpainting with GAN Inversion.**
+  <br>**Yongsheng Yu**, Libo Zhang, Heng Fan, Tiejian Luo
+  <br>ECCV 2022. [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Reviewer: CVPR 2022, ECCV 2022, WACV 2023.
+- Student Reviewer: ICLR 2022, MobiCom 2022, ICCV 2021.
+
+## Awards
+
+- 3rd Place, The 1st Tencent MOBA Multi-Agent Reinforcement Learning Competition, 2021.
+
+- [Outstanding Undergraduate Award](https://www.ccf.org.cn/Awards/Awards/2018-07-31/650741.shtml), China Computer Federation, 2018.
+
+- Bronze Award, The ACM-ICPC Asia Reginal Contest, 2017.
+
+## Teaching
+
+**Graduate Teaching Assistant**
+
+- Advanced Software Engineering, Prof. Tiejian Luo. University of Chinese Academy of Sciences, Fall 2020 and 2021
+
+- Data Science, Prof. Tiejian Luo. University of Chinese Academy of Sciences (Fall 2019)
+
