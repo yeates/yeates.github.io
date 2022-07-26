@@ -82,3 +82,9 @@ An innate desire to teach machines human creativity infatuated me with computer 
 - Swimming, Hiking, Bike trip, Self-drive tour
 - Cooking (Mainly Szechuan cuisine)
 - Fingerstyle guitar
+
+<br>
+
+<center><a href="https://clustrmaps.com/site/1bpk9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RoDpcfB2vG1lN_1So1H7EOpCNMohRUZg7CEirev-baw&cl=ffffff" /></a></center>
+
+<p style="text-align: center"><small>Powered by Jekyll and Minimal Light theme.</small></p>
