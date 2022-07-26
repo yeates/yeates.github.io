@@ -1,13 +1,13 @@
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
-keywords: minimal academic
+title: Yongsheng Yu
+position: Machine Learning Engineer
+affiliation: ISCAS (Institute of Software, Chinese Academy of Sciences)
+email: yuyongsheng19@mails.ucas.ac.cn
+keywords: yongsheng yu
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
+github_link: https://github.com/yeates
 linkedin: https://www.linkedin.com/
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
+google_analytics: 
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
