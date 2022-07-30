@@ -8,7 +8,7 @@ Welcome to Yongsheng's home page. I am currently a assistant engineer at [Instit
 
 ## Research Interests
 
-An innate desire to teach machines human creativity infatuated me with computer vision. My current interests lie in green (light and efficient) image/video restoration and synthesis.
+An intrinsic urge to teach machines human creativity obsessed me with computer vision. My current interests lie in green (light and efficient) image/video restoration and synthesis.
 
 ## Publications
 
@@ -21,12 +21,12 @@ An innate desire to teach machines human creativity infatuated me with computer 
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="TBD">Unbiased Multi-Modality Guidance for Image Inpainting</a></div>
+      <div class="title"><a href="./assets/pdf/5256.pdf">Unbiased Multi-Modality Guidance for Image Inpainting</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>, Dawei Du, Libo Zhang, Tiejian Luo</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em>
       </div>
     <div class="links">
-      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="./assets/pdf/5256.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
@@ -43,12 +43,12 @@ An innate desire to teach machines human creativity infatuated me with computer 
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="TBD">High-Fidelity Image Inpainting with GAN Inversion</a></div>
+      <div class="title"><a href="./assets/pdf/4018.pdf">High-Fidelity Image Inpainting with GAN Inversion</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>, Libo Zhang, Heng Fan, Tiejian Luo</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em>
       </div>
     <div class="links">
-      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="./assets/pdf/4018.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
@@ -71,7 +71,7 @@ An innate desire to teach machines human creativity infatuated me with computer 
 - [Outstanding Undergraduate Award](https://www.ccf.org.cn/Awards/Awards/2018-07-31/650741.shtml), China Computer Federation, 2018.
 - Bronze Award, The ACM-ICPC Asia Reginal Contest, 2017.
 
-## Teaching
+## Teaching Experience
 
 **Graduate Teaching Assistant**
 
