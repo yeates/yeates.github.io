@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am currently a assistant engineer at [Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn), Beijing, where I work on deep learning, computer vision, and reinforcement learning. Before that, I received my M.S. in Computer Science from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo. I did my bachelor's in Computer Science (excellence program) at Southwest University of Science and Technology.
+Welcome to Yongsheng's home page. I am currently a assistant engineer at [Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn), Beijing, where I work on deep video inpainting and diffusion-based generative. Before that, I received my M.S. in Computer Science from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo. I did my bachelor's in Computer Science (excellence program) at Southwest University of Science and Technology.
 
 ## Research Interests
 
@@ -79,9 +79,8 @@ An intrinsic urge to teach machines human creativity obsessed me with computer v
 - *Data Science* at University of Chinese Academy of Sciences, Fall 2019
 
 ## Personal Interests
-- Swimming, Hiking, Bike trip, Self-drive tour
+- Swimming, Hiking, Bike trip
 - Cooking (Mainly Szechuan cuisine)
-- Fingerstyle guitar
 
 <br>
 
