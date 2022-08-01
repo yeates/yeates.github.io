@@ -4,11 +4,19 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am currently a assistant engineer at [Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn), Beijing, where I work on deep video inpainting and diffusion-based generative. Before that, I received my M.S. in Computer Science from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo. I did my bachelor's in Computer Science (excellence program) at Southwest University of Science and Technology.
+Welcome to Yongsheng's home page. I am currently a assistant engineer at [Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn), Beijing, where I work on deep video inpainting and diffusion-based generative. Before that, I received my M.S. in Computer Science from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo. 
 
 ## Research Interests
 
 An intrinsic urge to teach machines human creativity obsessed me with computer vision. My current interests lie in green (light and efficient) image/video restoration and synthesis.
+
+
+## News
+
+- **[08/2022]**: The [paper](./assets/pdf/5256.pdf) and [code](https://github.com/yeates/MMT) of MMT are released. 
+- **[07/2022]**: Two papers are accepted to [ECCV](https://eccv2022.ecva.net/) 2022.
+- **[04/2022]**: Homepage is rebuilt. &#128509;
+
 
 ## Publications
 
@@ -27,8 +35,8 @@ An intrinsic urge to teach machines human creativity obsessed me with computer v
       </div>
     <div class="links">
       <a href="./assets/pdf/5256.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/yeates/MMT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="TBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -51,7 +59,7 @@ An intrinsic urge to teach machines human creativity obsessed me with computer v
       <a href="./assets/pdf/4018.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="TBD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="TBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
