@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am currently a assistant engineer at [Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn), Beijing, where I work on deep video inpainting and diffusion-based generative. Before that, I received my M.S. in Computer Science from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo. 
+Welcome to Yongsheng's home page. I am currently an assistant engineer at [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/), Beijing, where I work on deep video inpainting and diffusion-based generative model. Before that, I received my master degree from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo, in June 2022. 
 
 ## Research Interests
 
-An intrinsic urge to teach machines human creativity obsessed me with computer vision. My current interests lie in green (light and efficient) image/video restoration and synthesis.
+I'm broadly interested in the field of computer vision and machine learning. Specifically, I currently focus on image/video generation and restoration, text-driven image manipulation.
 
 
 ## News
 
-- **[08/2022]**: The [paper](./assets/pdf/5256.pdf) and [code](https://github.com/yeates/MMT) of MMT are released. 
+- **[08/2022]**: The [paper](https://arxiv.org/abs/2208.11844) and [code](https://github.com/yeates/MMT) of MMT are released. 
 - **[07/2022]**: Two papers are accepted to [ECCV](https://eccv2022.ecva.net/) 2022.
 - **[04/2022]**: Homepage is rebuilt. &#128509;
 
@@ -29,12 +29,12 @@ An intrinsic urge to teach machines human creativity obsessed me with computer v
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="./assets/pdf/5256.pdf">Unbiased Multi-Modality Guidance for Image Inpainting</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2208.11844">Unbiased Multi-Modality Guidance for Image Inpainting</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>, Dawei Du, Libo Zhang, Tiejian Luo</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em>
       </div>
     <div class="links">
-      <a href="./assets/pdf/5256.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2208.11844" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yeates/MMT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="TBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
@@ -51,12 +51,12 @@ An intrinsic urge to teach machines human creativity obsessed me with computer v
             <abbr class="badge">ECCV</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="./assets/pdf/4018.pdf">High-Fidelity Image Inpainting with GAN Inversion</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2208.11850">High-Fidelity Image Inpainting with GAN Inversion</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>, Libo Zhang, Heng Fan, Tiejian Luo</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em>
       </div>
     <div class="links">
-      <a href="./assets/pdf/4018.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2208.11850" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="TBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
