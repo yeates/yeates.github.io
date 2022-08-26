@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am currently an assistant engineer at [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/), Beijing, where I work on deep video inpainting and diffusion-based generative model. Before that, I received my master degree from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo, in June 2022. 
+Welcome to Yongsheng's home page. I am currently an research assistant at [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/), Beijing, where I work on deep video inpainting and diffusion-based generative model. Before that, I received my master degree from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo, in June 2022. 
 
 ## Research Interests
 
