@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am currently an research assistant at [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/), Beijing, where I work on deep video inpainting and diffusion-based generative model. Before that, I received my master degree from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo, in June 2022. 
+Welcome to Yongsheng's home page. I am currently a research assistant at [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/), Beijing, where I work on deep video inpainting and diffusion-based generative models. Before that, I received my master's degree from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo, in June 2022. 
+
+<p style='color:red'>I am searching for a PhD position in 2023.</p>
 
 ## Research Interests
 
-I'm broadly interested in the field of computer vision and machine learning. Specifically, I currently focus on image/video generation and restoration, text-driven image manipulation.
+I'm broadly interested in the field of computer vision and machine learning. Specifically, I currently focus on image/video generation and restoration, and text-driven image manipulation.
 
 
 ## News
@@ -71,7 +73,6 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 ## Services
 
 - Reviewer: CVPR 2022, ECCV 2022, WACV 2023.
-- Student Reviewer: ICLR 2022, MobiCom 2022, ICCV 2021.
 
 ## Awards
 
