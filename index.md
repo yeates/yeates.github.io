@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am currently a research assistant at [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/), Beijing, where I work on deep video inpainting and diffusion-based generative models. Before that, I received my master's degree from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) under the guidance of Prof. Tiejian Luo, in June 2022. Fortunately, I had the privilege of working with three outstanding individuals, [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu), during my master's degree studies.
+Welcome to Yongsheng's home page. I am currently a research assistant at [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/), Beijing, where I work on video inpainting and diffusion-based generative modeling. Before that, I did my master in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortunate to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
 
-<p style='color:red'>As a highly motivated individual with a strong passion for learning and research, I am actively seeking a Ph.D. position in 2023. Please feel free to contact me.</p>
+<!-- <p style='color:red'>As a highly motivated individual with a strong passion for learning and research, I am actively seeking a Ph.D. position in 2023. Please feel free to contact me.</p> -->
 
 ## Research Interests
 
@@ -38,7 +38,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
     <div class="links">
       <a href="https://arxiv.org/abs/2208.11844" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yeates/MMT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="TBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://dblp.uni-trier.de/rec/conf/eccv/YuDZL22.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -61,7 +61,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
       <a href="https://arxiv.org/abs/2208.11850" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <a href="TBA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://dblp.uni-trier.de/rec/conf/eccv/YuZFL22.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -88,7 +88,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 - *Data Science* at University of Chinese Academy of Sciences, Fall 2019
 
 ## Personal Interests
-- Swimming, Hiking, Bike trip
+- Swimming, Hiking, Bike trip, Video game(Elden Ring, Zelda: Breath of the Wild)
 - Cooking (Mainly Szechuan cuisine)
 
 <br>
