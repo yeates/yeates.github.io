@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am currently a research assistant at [Institute of Software Chinese Academy of Sciences](http://english.is.cas.cn/), Beijing, where I work on video inpainting and diffusion-based generative modeling. Before that, I did my master in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortunate to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
+Welcome to Yongsheng's home page. I am an incoming Ph.D. student at the University of Rochester, under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, I did my master's in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortune to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
 
 <!-- <p style='color:red'>As a highly motivated individual with a strong passion for learning and research, I am actively seeking a Ph.D. position in 2023. Please feel free to contact me.</p> -->
 
@@ -30,7 +30,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
     <img src="https://s2.loli.net/2022/07/26/P87oHlKk1tNDxrG.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ECCV</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2208.11844">Unbiased Multi-Modality Guidance for Image Inpainting</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>, Dawei Du, Libo Zhang, Tiejian Luo</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em>
@@ -52,7 +52,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
     <img src="https://s2.loli.net/2022/07/26/Ppk4TmYCqyvf7Zl.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ECCV</abbr>
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="yu22high" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2208.11850">High-Fidelity Image Inpainting with GAN Inversion</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>, Libo Zhang, Heng Fan, Tiejian Luo</div>
       <div class="periodical"><em>European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.</em>
@@ -72,12 +72,12 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 ## Services
 
-- Reviewer: ICCV 2023, CVPR 2023, CVPR 2022, ECCV 2022, WACV 2023.
+- Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2023, WACV 2023.
 
 ## Awards
 
 - 3rd Place, The 1st Tencent MOBA Multi-Agent Reinforcement Learning Competition, 2021.
-- [Outstanding Undergraduate Award](https://www.ccf.org.cn/Awards/Awards/2018-07-31/650741.shtml), China Computer Federation, 2018.
+- Outstanding Undergraduate Award, China Computer Federation, 2018.
 - Bronze Award, The ACM-ICPC Asia Reginal Contest, 2017.
 
 ## Teaching Experience
@@ -88,7 +88,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 - *Data Science* at University of Chinese Academy of Sciences, Fall 2019
 
 ## Personal Interests
-- Swimming, Hiking, Bike trip, Video game(Elden Ring, Zelda: Breath of the Wild)
+- Swimming, Hiking, Bike trip, Video game(Elden Ring, Zelda, etc.)
 - Cooking (Mainly Szechuan cuisine)
 
 <br>
