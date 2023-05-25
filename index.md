@@ -24,6 +24,30 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2023/05/25/PZbEcTHmusg1lfk.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Preprint</abbr>
+  </div>
+  <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2305.11818">MaGIC: Multi-modality Guided Image Completion</a></div>
+      <div class="author"><strong>Yongsheng Yu</strong>, Hao Wang, Tiejian Luo, Heng Fan, Libo Zhang</div>
+      <div class="periodical"><em>In Submission, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2305.11818.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yeates/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+      <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (Coming soon)</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:L0BRRFAtkaMJ:scholar.google.com/&output=citation&scisdr=Cm3cFKi4EP6N0c7kiRQ:AGlGAw8AAAAAZG7ikRSGQmdgN8cM48hTJChXjeM&scisig=AGlGAw8AAAAAZG7ikUz8tahwBbs1bbS2dgPHoEo&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -74,18 +98,6 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 - Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2023, WACV 2023.
 
-## Awards
-
-- 3rd Place, The 1st Tencent MOBA Multi-Agent Reinforcement Learning Competition, 2021.
-- Outstanding Undergraduate Award, China Computer Federation, 2018.
-- Bronze Award, The ACM-ICPC Asia Reginal Contest, 2017.
-
-## Teaching Experience
-
-**Graduate Teaching Assistant**
-
-- *Advanced Software Engineering* at University of Chinese Academy of Sciences, Fall 2020 and 2021
-- *Data Science* at University of Chinese Academy of Sciences, Fall 2019
 
 ## Personal Interests
 - Swimming, Hiking, Bike trip, Video game(Elden Ring, Zelda, etc.)
@@ -93,6 +105,6 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 <br>
 
-<center><a href="https://clustrmaps.com/site/1bpk9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=RoDpcfB2vG1lN_1So1H7EOpCNMohRUZg7CEirev-baw&cl=ffffff" /></a></center>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=RoDpcfB2vG1lN_1So1H7EOpCNMohRUZg7CEirev-baw&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
 
 <p style="text-align: center"><small>Powered by Jekyll and Minimal Light theme.</small></p>

@@ -10,9 +10,8 @@ avatar: ./assets/img/avatar_1.jpg
 google_analytics: UA-172331442-1
 favicon: ./assets/img/favicon.jpg
 favicon_dark: ./assets/img/favicon-dark.png
-description: Yongsheng Yu's academic homepage.
+description: Yongsheng's homepage
 canonical: https://www.yongshengyu.com
-twitter: https://twitter.com/YeatesYu
 
 exclude:
   - Gemfile
