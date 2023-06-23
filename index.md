@@ -15,6 +15,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 ## News
 
+- **[06/2023]**: The [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC) of MaGIC are released. 
 - **[08/2022]**: The [paper](https://arxiv.org/abs/2208.11844) and [code](https://github.com/yeates/MMT) of MMT are released. 
 - **[07/2022]**: Two papers are accepted to [ECCV](https://eccv2022.ecva.net/) 2022.
 - **[04/2022]**: Homepage is rebuilt. &#128509;
@@ -38,8 +39,8 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2305.11818.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yeates/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
-      <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (Coming soon)</a>
+      <a href="https://github.com/yeates/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:L0BRRFAtkaMJ:scholar.google.com/&output=citation&scisdr=Cm3cFKi4EP6N0c7kiRQ:AGlGAw8AAAAAZG7ikRSGQmdgN8cM48hTJChXjeM&scisig=AGlGAw8AAAAAZG7ikUz8tahwBbs1bbS2dgPHoEo&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
