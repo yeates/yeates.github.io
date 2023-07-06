@@ -39,7 +39,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2305.11818.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yeates/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="yeates.github.io/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:L0BRRFAtkaMJ:scholar.google.com/&output=citation&scisdr=Cm3cFKi4EP6N0c7kiRQ:AGlGAw8AAAAAZG7ikRSGQmdgN8cM48hTJChXjeM&scisig=AGlGAw8AAAAAZG7ikUz8tahwBbs1bbS2dgPHoEo&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
