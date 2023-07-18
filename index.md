@@ -10,12 +10,15 @@ Welcome to Yongsheng's home page. I am an incoming Ph.D. student at the Universi
 
 ## Research Interests
 
-I'm broadly interested in the field of computer vision and machine learning. Specifically, I currently focus on image/video generation and restoration, and text-driven image manipulation.
+I'm broadly interested in the field of computer vision and machine learning. Specifically, I currently focus on multi-modal generation and editing.
 
 
 ## News
 
+- **[07/2023]**: The [paper](https://arxiv.org/abs/2307.08629) and [code repository](https://github.com/yeates/DMT) of DMT are released. 
+<!-- - **[06/2023]**: Join [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) for internalship. -->
 - **[06/2023]**: The [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC) of MaGIC are released. 
+- **[04/2023]**: I will be joining [VISTA@URCS](https://www.cs.rochester.edu/u/jluo/) as a Ph.D. student this coming fall.
 - **[08/2022]**: The [paper](https://arxiv.org/abs/2208.11844) and [code](https://github.com/yeates/MMT) of MMT are released. 
 - **[07/2022]**: Two papers are accepted to [ECCV](https://eccv2022.ecva.net/) 2022.
 - **[04/2022]**: Homepage is rebuilt. &#128509;
@@ -26,6 +29,29 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2023/07/18/XjtmbwAKzul57C4.jpg" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Preprint</abbr>
+  </div>
+  <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2307.08629">Deficiency-Aware Masked Transformer for Video Inpainting</a></div>
+      <div class="author"><strong>Yongsheng Yu</strong>, Heng Fan, Libo Zhang</div>
+      <!-- <div class="periodical"><em>In Submission, 2023.</em> -->
+      <!-- </div> -->
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2307.08629.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yeates/DMT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -35,13 +61,13 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
   <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2305.11818">MaGIC: Multi-modality Guided Image Completion</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>, Hao Wang, Tiejian Luo, Heng Fan, Libo Zhang</div>
-      <div class="periodical"><em>In Submission, 2023.</em>
-      </div>
+      <!-- <div class="periodical"><em>In Submission, 2023.</em>
+      </div> -->
     <div class="links">
       <a href="https://arxiv.org/pdf/2305.11818.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="yeates.github.io/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://yeates.github.io/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:L0BRRFAtkaMJ:scholar.google.com/&output=citation&scisdr=Cm3cFKi4EP6N0c7kiRQ:AGlGAw8AAAAAZG7ikRSGQmdgN8cM48hTJChXjeM&scisig=AGlGAw8AAAAAZG7ikUz8tahwBbs1bbS2dgPHoEo&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-11818.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -97,7 +123,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 ## Services
 
-- Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2023, WACV 2023.
+- Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2023, WACV 2023 2024.
 
 
 ## Personal Interests
