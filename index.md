@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am an incoming Ph.D. student at the University of Rochester, under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, I did my master's in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortune to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
+Welcome to Yongsheng's home page. I am a first-year Ph.D. student at the University of Rochester, under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, I did my master's in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortune to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
 
 <!-- <p style='color:red'>As a highly motivated individual with a strong passion for learning and research, I am actively seeking a Ph.D. position in 2023. Please feel free to contact me.</p> -->
 
@@ -16,7 +16,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 ## News
 
 - **[07/2023]**: The [paper](https://arxiv.org/abs/2307.08629) and [code repository](https://github.com/yeates/DMT) of DMT are released. 
-<!-- - **[06/2023]**: Join [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) for internalship. -->
+- **[06/2023]**: Join [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) for an internship, advised by [Huan Yang](https://hyang0511.github.io/) and [Jianlong Fu](https://www.microsoft.com/en-us/research/people/jianf/).
 - **[06/2023]**: The [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC) of MaGIC are released. 
 - **[04/2023]**: I will be joining [VISTA@URCS](https://www.cs.rochester.edu/u/jluo/) as a Ph.D. student this coming fall.
 - **[08/2022]**: The [paper](https://arxiv.org/abs/2208.11844) and [code](https://github.com/yeates/MMT) of MMT are released. 
@@ -123,11 +123,11 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 ## Services
 
-- Reviewer: NeurIPS 2023, ICCV 2023, CVPR 2023, WACV 2023 2024.
+- Reviewer: ICLR 2024, NeurIPS 2023, ICCV 2023, CVPR 2023, WACV 2023 2024.
 
 
 ## Personal Interests
-- Swimming, Hiking, Bike trip, Video game(Elden Ring, Zelda, etc.)
+- Swimming, Hiking, Bike trip, Video game(The Elder Scrolls, Elden Ring, Zelda, etc.)
 - Cooking (Mainly Szechuan cuisine)
 
 <br>
