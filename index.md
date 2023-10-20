@@ -4,9 +4,8 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am a first-year Ph.D. student at the University of Rochester, under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, I did my master's in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortune to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
+Welcome to Yongsheng's home page. I am a first-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, I did my master's in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortune to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
 
-<!-- <p style='color:red'>As a highly motivated individual with a strong passion for learning and research, I am actively seeking a Ph.D. position in 2023. Please feel free to contact me.</p> -->
 
 ## Research Interests
 
@@ -24,7 +23,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 - **[04/2022]**: Homepage is rebuilt. &#128509;
 
 
-## Publications
+## Selected Publications
 
 <div class="publications">
 <ol class="bibliography">
