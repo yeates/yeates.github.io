@@ -6,6 +6,7 @@ layout: homepage
 
 Welcome to Yongsheng's home page. I am a first-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, I did my master's in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortune to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
 
+<p style='color:red'>I am actively seeking a 2024 summer research internship in topics including, but not limited to, image-to-image diffusion models, controllable generation, subject-driven generation, and images to 3D.</p>
 
 ## Research Interests
 
