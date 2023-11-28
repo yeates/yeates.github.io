@@ -44,7 +44,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
     <div class="links">
       <a href="https://arxiv.org/pdf/2307.08629.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yeates/DMT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2307-08629.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -83,12 +83,12 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
             <abbr class="badge">Preprint</abbr>
   </div>
   <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="/">Flow-Guided Diffusion for Video Inpainting</a></div>
+      <div class="title"><a href="https://arxiv.org/pdf/2311.15368.pdf">Flow-Guided Diffusion for Video Inpainting</a></div>
       <div class="author">Bohai Gu, <strong>Yongsheng Yu</strong>, Heng Fan, Libo Zhang</div>
       <div class="periodical"><em>In Submission, 2023.</em>
       </div>
     <div class="links">
-      <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF (Preparing)</a>
+      <a href="https://arxiv.org/pdf/2311.15368.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://yeates.github.io/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
