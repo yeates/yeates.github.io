@@ -4,13 +4,11 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am a first-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, I did my master's in computer science at the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), where I had the good fortune to work closely with [Libo Zhang](https://isrc.iscas.ac.cn/zhanglibo/), [Heng Fan](https://hengfan2010.github.io/), and [Dawei Du](https://sites.google.com/view/daweidu).
-
-<!-- <p style='color:red'>I am actively seeking a 2024 summer research internship in topics including, but not limited to, image-to-image diffusion models, controllable generation, subject-driven generation, and images to 3D.</p> -->
+Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, he completed his master's in computer science at the University of Chinese Academy of Sciences and his bachelor's degree at Southwest University of Science and Technology.
 
 ## Research Interests
 
-I'm broadly interested in the field of computer vision and machine learning. Specifically, I currently focus on multi-modal generation and editing.
+I'm broadly interested in the field of computer vision and machine learning. Specifically, I currently focus on visual generation and editing.
 
 
 ## News
@@ -61,7 +59,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
   </div>
   <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2305.11818">MaGIC: Multi-modality Guided Image Completion</a></div>
-      <div class="author"><strong>Yongsheng Yu</strong>, Hao Wang, Tiejian Luo, Heng Fan, Libo Zhang</div>
+      <div class="author"><strong>Yongsheng Yu</strong>*, Hao Wang*, Tiejian Luo, Heng Fan, Libo Zhang</div>
       <div class="periodical"><em>In Submission, 2023.</em>
       </div>
     <div class="links">
@@ -84,13 +82,12 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
   </div>
   <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2311.15368.pdf">Flow-Guided Diffusion for Video Inpainting</a></div>
-      <div class="author">Bohai Gu, <strong>Yongsheng Yu</strong>, Heng Fan, Libo Zhang</div>
+      <div class="author">Bohai Gu*, <strong>Yongsheng Yu</strong>*, Heng Fan, Libo Zhang</div>
       <div class="periodical"><em>In Submission, 2023.</em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2311.15368.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://yeates.github.io/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/NevSNev/FGDVI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
@@ -134,8 +131,6 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
       </div>
     <div class="links">
       <a href="https://arxiv.org/abs/2208.11850" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://e3bm.yyliu.net" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <a href="https://dblp.uni-trier.de/rec/conf/eccv/YuZFL22.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
@@ -147,12 +142,22 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 ## Services
 
-- Reviewer: ICLR 2024, NeurIPS 2023, ICCV 2023, CVPR 2023 2024, WACV 2023 2024.
+- Reviewer: ICML 2024, ICLR 2024, NeurIPS 2023, ICCV 2023, CVPR 2023 2024, WACV 2023 2024.
+
 
 
 ## Personal Interests
-- Swimming, Hiking, Bike trip, Video game(The Elder Scrolls, Elden Ring, Zelda, etc.)
+- Swimming, Hiking, Bike trip, Video game(The Elder Scrolls, Elden Ring, Baldur's Gate, etc.)
 - Cooking (Mainly Szechuan cuisine)
+
+
+## Awards
+
+- 3rd Place, Tencent Honor of Kings Multi-Agent Reinforcement Learning Competition, 2021.
+- Outstanding Undergraduate Award, China Computer Federation, 2018.
+<!-- - [Outstanding Undergraduate Award](https://www.ccf.org.cn/Awards/Awards/2018-07-31/650741.shtml), China Computer Federation, 2018. -->
+- Bronze Award, The ACM-ICPC Asia Reginal Contest, 2017.
+- 380/500 (Top 1.54%), CCF (China Computer Federation) CSP (Certified Software Professional), 2017.
 
 <br>
 
