@@ -13,6 +13,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 ## News
 
+- **[01/2024]**: One paper is accepted to [ICLR](https://iclr.cc/) 2024. 	&#127880;
 - **[07/2023]**: The [paper](https://arxiv.org/abs/2307.08629) and [code repository](https://github.com/yeates/DMT) of DMT are released. 
 - **[06/2023]**: Join [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) for an internship, advised by [Huan Yang](https://hyang0511.github.io/) and [Jianlong Fu](https://www.microsoft.com/en-us/research/people/jianf/).
 - **[06/2023]**: The [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC) of MaGIC are released. 
@@ -26,6 +27,29 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2023/11/25/V91f7PYqSwoaJmK.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ICLR</abbr>
+  </div>
+  <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2305.11818">MaGIC: Multi-modality Guided Image Completion</a></div>
+      <div class="author"><strong>Yongsheng Yu</strong>*, Hao Wang*, Tiejian Luo, Heng Fan, Libo Zhang</div>
+      <div class="periodical"><em>International Conference on Learning Representations (ICLR), 2024.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2305.11818.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://yeates.github.io/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
+      <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-11818.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
 
 
 <li>
@@ -50,29 +74,6 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 <br>
 
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://s2.loli.net/2023/11/25/V91f7PYqSwoaJmK.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Preprint</abbr>
-  </div>
-  <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/abs/2305.11818">MaGIC: Multi-modality Guided Image Completion</a></div>
-      <div class="author"><strong>Yongsheng Yu</strong>*, Hao Wang*, Tiejian Luo, Heng Fan, Libo Zhang</div>
-      <div class="periodical"><em>In Submission, 2023.</em>
-      </div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2305.11818.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://yeates.github.io/MaGIC-Page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://github.com/yeates/MaGIC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2305-11818.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
 
 <li>
 <div class="pub-row">
