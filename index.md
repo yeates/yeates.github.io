@@ -4,22 +4,16 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Prior to that, he completed his master's in computer science at the University of Chinese Academy of Sciences and his bachelor's degree at Southwest University of Science and Technology.
-
-## Research Interests
-
-I'm broadly interested in the field of computer vision and machine learning. Specifically, I currently focus on visual generation and editing.
+Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Yongsheng is broadly interested in the field of computer vision and machine learning, with a specific focus on visual generation and editing. He interned at Adobe Research and MSRA.
 
 
 ## News
 
-- **[01/2024]**: One paper is accepted to [ICLR](https://iclr.cc/) 2024. 	&#127880;
-- **[07/2023]**: The [paper](https://arxiv.org/abs/2307.08629) and [code repository](https://github.com/yeates/DMT) of DMT are released. 
-- **[06/2023]**: Join [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) for an internship, advised by [Huan Yang](https://hyang0511.github.io/) and [Jianlong Fu](https://www.microsoft.com/en-us/research/people/jianf/).
-- **[06/2023]**: The [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC) of MaGIC are released. 
+- **[05/2024]**: Join [Adobe Research](https://research.adobe.com) for a summer internship.
+- **[01/2024]**: Our MaGIC is accepted to [ICLR](https://iclr.cc/) 2024, see [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC). &#127880;
+- **[06/2023]**: Join [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) for an internship.
 - **[04/2023]**: I will be joining [VISTA@URCS](https://www.cs.rochester.edu/u/jluo/) as a Ph.D. student this coming fall.
-- **[08/2022]**: The [paper](https://arxiv.org/abs/2208.11844) and [code](https://github.com/yeates/MMT) of MMT are released. 
-- **[07/2022]**: Two papers are accepted to [ECCV](https://eccv2022.ecva.net/) 2022.
+- **[07/2022]**: Two papers are accepted to [ECCV](https://eccv2022.ecva.net/) 2022. &#127880; &#127880;
 - **[04/2022]**: Homepage is rebuilt. &#128509;
 
 
@@ -36,7 +30,7 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
   </div>
   <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2305.11818">MaGIC: Multi-modality Guided Image Completion</a></div>
-      <div class="author"><strong>Yongsheng Yu</strong>*, Hao Wang*, Tiejian Luo, Heng Fan, Libo Zhang</div>
+      <div class="author">Hao Wang*, <strong>Yongsheng Yu</strong>*, Tiejian Luo, Heng Fan, Libo Zhang</div>
       <div class="periodical"><em>International Conference on Learning Representations (ICLR), 2024.</em>
       </div>
     <div class="links">
@@ -143,8 +137,9 @@ I'm broadly interested in the field of computer vision and machine learning. Spe
 
 ## Services
 
-- Reviewer: ICML 2024, ICLR 2024, NeurIPS 2023, ICCV 2023, CVPR 2023 2024, WACV 2023 2024.
-
+- Conference Reviewer: 
+  - 2024: CVPR, ECCV, ICML, ICLR, MM, WACV, ICME
+  - 2023: CVPR, ICCV, NeurIPS, WACV
 
 
 ## Personal Interests
