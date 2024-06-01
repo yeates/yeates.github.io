@@ -22,6 +22,30 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2024/06/02/PwcAdUljJRyDFbp.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Preprint</abbr>
+  </div>
+  <div id="yu24promptfix" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2405.16785">PromptFix: You Prompt and We Fix the Photo</a></div>
+      <div class="author"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Hang Hua, Jianlong Fu, Jiebo Luo</div>
+      <!-- <div class="periodical"><em>In Submission, 2024.</em> -->
+      <!-- </div> -->
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2405.16785" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/yeates/DMT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PromptFix%3A+You+Prompt+and+We+Fix+the+Photo&btnG=#d=gs_cit&t=1717276171483&u=%2Fscholar%3Fq%3Dinfo%3AmjbIp5vw_zcJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -138,7 +162,7 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
 ## Services
 
 - Conference Reviewer: 
-  - 2024: CVPR, ECCV, ICML, ICLR, MM, WACV, ICME
+  - 2024: CVPR, ECCV, ICML, ICLR, NeurIPS, MM, WACV, ICME
   - 2023: CVPR, ICCV, NeurIPS, WACV
 
 
@@ -146,14 +170,14 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
 - Swimming, Hiking, Bike trip, Video game(The Elder Scrolls, Elden Ring, Baldur's Gate, etc.)
 - Cooking (Mainly Szechuan cuisine)
 
-
+<!-- 
 ## Awards
 
 - 3rd Place, Tencent Honor of Kings Multi-Agent Reinforcement Learning Competition, 2021.
-- Outstanding Undergraduate Award, China Computer Federation, 2018.
-<!-- - [Outstanding Undergraduate Award](https://www.ccf.org.cn/Awards/Awards/2018-07-31/650741.shtml), China Computer Federation, 2018. -->
-- Bronze Award, The ACM-ICPC Asia Reginal Contest, 2017.
-- 380/500 (Top 1.54%), CCF (China Computer Federation) CSP (Certified Software Professional), 2017.
+- Outstanding Undergraduate Award, China Computer Federation, 2018. -->
+<!-- - [Outstanding Undergraduate Award](https://www.ccf.org.cn/Awards/Awardds/2018-07-31/650741.shtml), China Computer Federation, 2018. -->
+<!-- - Bronze Award, The ACM-ICPC Asia Reginal Contest, 2017.
+- 380/500 (Top 1.54%), CCF (China Computer Federation) CSP (Certified Software Professional), 2017. -->
 
 <br>
 
