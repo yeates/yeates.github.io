@@ -17,11 +17,47 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
 - **[04/2022]**: Homepage is rebuilt. &#128509;
 
 
-## Selected Publications
+## Internship
 
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+  <div style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/adobe-logo.png" class="logo">
+  </div>
+  <div id="internship-adobe-24" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://research.adobe.com/">Adobe Research</a></div>
+      <div class="author">[05/2024 - Present] | San Jose, US</div>
+      <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=hLG8AmwAAAAJ&hl=en">Haitian Zheng</a>, <a href="https://scholar.google.com/citations?user=TkVHKDgAAAAJ&hl=en">Jianming Zhang</a>, <a href="https://scholar.google.com/citations?user=uO0k6DMAAAAJ&hl=en">Wei Xiong</a>, <a href="https://scholar.google.com/citations?hl=en&user=R0bnqaAAAAAJ">Zhe Lin</a></div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/microsoft-logo.png" class="logo" style="height: 45px">
+  </div>
+  <div id="internship-msra" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a></div>
+      <div class="author">[05/2023 - 08/2023] | Beijing, China</div>
+      <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=O8NTlooAAAAJ&hl=en">Huan Yang</a>, <a href="https://scholar.google.com/citations?user=-WqSwu8AAAAJ&hl=en">Jianlong Fu</a></div>
+  </div>
+</div>
+</li>
+
+
+</ol>
+</div>
+
+## Publications
+
+<div class="publications">
+<ol class="bibliography">
 
 <li>
 <div class="pub-row">
@@ -32,8 +68,8 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
   <div id="yu24promptfix" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.16785">PromptFix: You Prompt and We Fix the Photo</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Hang Hua, Jianlong Fu, Jiebo Luo</div>
-      <!-- <div class="periodical"><em>In Submission, 2024.</em> -->
-      <!-- </div> -->
+      <div class="periodical"><em>In Submission, 2024.</em>
+      </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.16785" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/yeates/DMT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
@@ -90,24 +126,23 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
 </div>
 </li>
 
-<br>
 
+<br>
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://s2.loli.net/2023/11/25/tl9j7TVDHxkKSRf.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Preprint</abbr>
+    <img src="https://s2.loli.net/2024/07/23/TXJhvWRS5xBo29L.jpg" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ICME</abbr>
   </div>
-  <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2311.15368.pdf">Flow-Guided Diffusion for Video Inpainting</a></div>
-      <div class="author">Bohai Gu*, <strong>Yongsheng Yu</strong>*, Heng Fan, Libo Zhang</div>
-      <div class="periodical"><em>In Submission, 2023.</em>
+  <div id="yu24demographic" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2405.15687">Chain-of-Thought Prompting for Demographic Inference with Large Multimodal Models</a></div>
+      <div class="author"><strong>Yongsheng Yu</strong>, Jiebo Luo</div>
+      <div class="periodical"><em>International Conference on Multimedia and Expo <strong>(ICME)</strong>, <span style="color: lightcoral;">Oral Presentation</span>, 2024.</em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2311.15368.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/NevSNev/FGDVI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://arxiv.org/pdf/2405.15687" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://dblp.uni-trier.de/rec/journals/corr/abs-2405-15687.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
 </div>
@@ -155,6 +190,30 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
   </div>
 </div>
 </li>
+
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2023/11/25/tl9j7TVDHxkKSRf.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Preprint</abbr>
+  </div>
+  <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2311.15368.pdf">Flow-Guided Diffusion for Video Inpainting</a></div>
+      <div class="author">Bohai Gu*, <strong>Yongsheng Yu</strong>*, Heng Fan, Libo Zhang</div>
+      <div class="periodical"><em>In Submission, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2311.15368.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/NevSNev/FGDVI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 </ol>
 </div>
