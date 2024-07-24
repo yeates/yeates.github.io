@@ -10,6 +10,7 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
 ## News
 
 - **[05/2024]**: Join [Adobe Research](https://research.adobe.com) for a summer internship.
+- **[04/2024]**: One <a href="https://arxiv.org/pdf/2405.15687">paper</a> is accepted as an oral at ICME 2024. &#127880;
 - **[01/2024]**: Our MaGIC is accepted to [ICLR](https://iclr.cc/) 2024, see [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC). &#127880;
 - **[06/2023]**: Join [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) for an internship.
 - **[04/2023]**: I will be joining [VISTA@URCS](https://www.cs.rochester.edu/u/jluo/) as a Ph.D. student this coming fall.
@@ -31,7 +32,7 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
   <div id="internship-adobe-24" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://research.adobe.com/">Adobe Research</a></div>
       <div class="author">[05/2024 - Present] | San Jose, US</div>
-      <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=hLG8AmwAAAAJ&hl=en">Haitian Zheng</a>, <a href="https://scholar.google.com/citations?user=TkVHKDgAAAAJ&hl=en">Jianming Zhang</a>, <a href="https://scholar.google.com/citations?user=uO0k6DMAAAAJ&hl=en">Wei Xiong</a>, <a href="https://scholar.google.com/citations?hl=en&user=R0bnqaAAAAAJ">Zhe Lin</a></div>
+      <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=hLG8AmwAAAAJ&hl=en">Haitian Zheng</a>, <a href="https://scholar.google.com/citations?user=NINFXC0AAAAJ&hl=en">Connelly Barnes</a>, <a href="https://scholar.google.com/citations?hl=en&user=R0bnqaAAAAAJ">Zhe Lin</a></div>
   </div>
 </div>
 </li>
