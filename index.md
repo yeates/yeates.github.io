@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Yongsheng is broadly interested in the field of computer vision and machine learning, with a specific focus on visual generation and editing. He interned at Adobe Research and MSRA.
+Welcome to Yongsheng's home page. He is a second-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Yongsheng is broadly interested in the field of computer vision and machine learning, with a specific focus on visual generation and editing. He interned at Adobe Research and MSRA.
 
 
 ## News
@@ -31,7 +31,7 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
   </div>
   <div id="internship-adobe-24" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://research.adobe.com/">Adobe Research</a></div>
-      <div class="author">[05/2024 - Present] | San Jose, US</div>
+      <div class="author">[05/2024 - 11/2024] | San Jose, US</div>
       <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=hLG8AmwAAAAJ&hl=en">Haitian Zheng</a>, <a href="https://scholar.google.com/citations?user=NINFXC0AAAAJ&hl=en">Connelly Barnes</a>, <a href="https://scholar.google.com/citations?hl=en&user=R0bnqaAAAAAJ">Zhe Lin</a></div>
   </div>
 </div>
@@ -222,12 +222,13 @@ Welcome to Yongsheng's home page. He is a first-year Ph.D. student at the [Unive
 ## Services
 
 - Conference Reviewer: 
+  - 2025: ICLR
   - 2024: CVPR, ECCV, ICML, ICLR, NeurIPS, MM, WACV, ICME
   - 2023: CVPR, ICCV, NeurIPS, WACV
 
 
 ## Personal Interests
-- Swimming, Hiking, Bike trip, Video game(The Elder Scrolls, Elden Ring, Baldur's Gate, etc.)
+- Swimming, Hiking, Video game(The Elder Scrolls, Elden Ring, Baldur's Gate, etc.)
 - Cooking (Mainly Szechuan cuisine)
 
 <!-- 
