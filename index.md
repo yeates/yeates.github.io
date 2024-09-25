@@ -65,7 +65,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://s2.loli.net/2024/06/02/PwcAdUljJRyDFbp.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Preprint</abbr>
+            <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="yu24promptfix" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.16785">PromptFix: You Prompt and We Fix the Photo</a></div>
