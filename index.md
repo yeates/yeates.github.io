@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. He is a second-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). Yongsheng is broadly interested in the field of computer vision and machine learning, with a specific focus on visual generation and editing. He interned at Adobe Research and MSRA.
+Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I am broadly interested in the field of computer vision and machine learning, with a specific focus on visual generation and editing. I have interned at Adobe Research and MSRA.
 
 
 ## News
 
+- **[09/2024]**: Our [PromptFix](https://arxiv.org/pdf/2405.16785) is accepted to [NeurIPS](https://neurips.cc/Conferences/2024) 2024, our code and data will be released soon. &#127880;
 - **[05/2024]**: Join [Adobe Research](https://research.adobe.com) for a summer internship.
 - **[04/2024]**: One <a href="https://arxiv.org/pdf/2405.15687">paper</a> is accepted as an oral at ICME 2024. &#127880;
 - **[01/2024]**: Our MaGIC is accepted to [ICLR](https://iclr.cc/) 2024, see [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC). &#127880;
@@ -69,7 +70,7 @@ Welcome to Yongsheng's home page. He is a second-year Ph.D. student at the [Univ
   <div id="yu24promptfix" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.16785">PromptFix: You Prompt and We Fix the Photo</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Hang Hua, Jianlong Fu, Jiebo Luo</div>
-      <div class="periodical"><em>In Submission, 2024.</em>
+      <div class="periodical"><em>Conference on Neural Information Processing Systems (NeurIPS), 2024.</em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.16785" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
