@@ -64,7 +64,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://s2.loli.net/2024/06/02/PwcAdUljJRyDFbp.png" class="teaser img-fluid z-depth-1">
+    <img src="https://s2.loli.net/2024/10/04/e7wQchYHOFEJ3ZD.gif" class="teaser img-fluid z-depth-1">
             <abbr class="badge">NeurIPS</abbr>
   </div>
   <div id="yu24promptfix" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
