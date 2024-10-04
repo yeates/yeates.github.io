@@ -73,6 +73,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
       <div class="periodical"><em>Conference on Neural Information Processing Systems (NeurIPS), 2024.</em>
       </div>
     <div class="links">
+      <a href="https://www.yongshengyu.com/PromptFix-Page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
       <a href="https://arxiv.org/pdf/2405.16785" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yeates/PromptFix" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/datasets/yeates/PromptfixData" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
