@@ -9,7 +9,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
 
 ## News
 
-- **[09/2024]**: Our [PromptFix](https://arxiv.org/pdf/2405.16785) is accepted to [NeurIPS](https://neurips.cc/Conferences/2024) 2024, our code and data will be released soon. &#127880;
+- **[09/2024]**: Our [PromptFix](https://arxiv.org/pdf/2405.16785) is accepted to [NeurIPS](https://neurips.cc/Conferences/2024) 2024, see our [code](https://github.com/yeates/PromptFix) and [data](https://huggingface.co/datasets/yeates/PromptfixData). &#127880;
 - **[05/2024]**: Join [Adobe Research](https://research.adobe.com) for a summer internship.
 - **[04/2024]**: One <a href="https://arxiv.org/pdf/2405.15687">paper</a> is accepted as an oral at ICME 2024. &#127880;
 - **[01/2024]**: Our MaGIC is accepted to [ICLR](https://iclr.cc/) 2024, see [paper](https://arxiv.org/abs/2305.11818) and [code](https://github.com/yeates/MaGIC). &#127880;
@@ -74,7 +74,8 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.16785" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/yeates/DMT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://github.com/yeates/PromptFix" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/datasets/yeates/PromptfixData" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
       <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PromptFix%3A+You+Prompt+and+We+Fix+the+Photo&btnG=#d=gs_cit&t=1717276171483&u=%2Fscholar%3Fq%3Dinfo%3AmjbIp5vw_zcJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
     </div>
   </div>
