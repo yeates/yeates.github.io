@@ -201,26 +201,6 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
 
 <br>
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://s2.loli.net/2023/11/25/tl9j7TVDHxkKSRf.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Preprint</abbr>
-  </div>
-  <div id="gu23flow" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2311.15368.pdf">Flow-Guided Diffusion for Video Inpainting</a></div>
-      <div class="author">Bohai Gu*, <strong>Yongsheng Yu</strong>*, Heng Fan, Libo Zhang</div>
-      <div class="periodical"><em>In Submission, 2023.</em>
-      </div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2311.15368.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/NevSNev/FGDVI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-    </div>
-  </div>
-</div>
-</li>
-
 
 </ol>
 </div>
