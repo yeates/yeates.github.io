@@ -32,7 +32,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
   </div>
   <div id="internship-adobe-24" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://research.adobe.com/">Adobe Research</a></div>
-      <div class="author">[05/2024 - 11/2024] | San Jose, US</div>
+      <div class="author">[05/2024 - Present] | San Jose, US</div>
       <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=hLG8AmwAAAAJ&hl=en">Haitian Zheng</a>, <a href="https://scholar.google.com/citations?user=NINFXC0AAAAJ&hl=en">Connelly Barnes</a>, <a href="https://scholar.google.com/citations?hl=en&user=R0bnqaAAAAAJ">Zhe Lin</a></div>
   </div>
 </div>
@@ -208,7 +208,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
 ## Services
 
 - Conference Reviewer: 
-  - 2025: ICLR
+  - 2025: ICLR, CVPR, ICML
   - 2024: CVPR, ECCV, ICML, ICLR, NeurIPS, MM, WACV, ICME
   - 2023: CVPR, ICCV, NeurIPS, WACV
 
