@@ -9,6 +9,8 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
 
 ## News
 
+- **[03/2025]**: [OmniPaint](https://www.yongshengyu.com/OmniPaint-Page/) project website and [technical report](https://arxiv.org/abs/2503.08677) are released!
+- **[02/2025]**: I will join [NVIDIA](https://www.nvidia.com/en-us/) as a Research Intern this summer.
 - **[09/2024]**: Our [PromptFix](https://arxiv.org/pdf/2405.16785) is accepted to [NeurIPS](https://neurips.cc/Conferences/2024) 2024, see our [code](https://github.com/yeates/PromptFix) and [data](https://huggingface.co/datasets/yeates/PromptfixData). &#127880;
 - **[05/2024]**: Join [Adobe Research](https://research.adobe.com) for a summer internship.
 - **[04/2024]**: One <a href="https://arxiv.org/pdf/2405.15687">paper</a> is accepted as an oral at ICME 2024. &#127880;
@@ -60,6 +62,34 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
 
 <div class="publications">
 <ol class="bibliography">
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2025/03/13/CD58aw3gRuXzjIK.gif" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Preprint</abbr>
+  </div>
+  <div id="yu25omnipaint" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2503.08677">OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting</a></div>
+      <div class="author"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Haitian Zheng, Jiebo Luo</div>
+      <div class="periodical"><em>In submission, 2025.</em>
+      <!-- <a href="https://github.com/yeates/OmniPaint">
+      <img src="https://img.shields.io/github/stars/yeates/OmniPaint?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 5px; margin-top: -5px;">
+      </a> -->
+      </div>
+    <div class="links">
+      <a href="https://www.yongshengyu.com/OmniPaint-Page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
+      <a href="https://arxiv.org/pdf/2503.08677" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/yeates/OmniPaint" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (release after acceptance)</a>
+      <!-- <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OmniPaint%3A+You+Prompt+and+We+Fix+the+Photo&btnG=#d=gs_cit&t=1717276171483&u=%2Fscholar%3Fq%3Dinfo%3AmjbIp5vw_zcJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
 
 <li>
 <div class="pub-row">
