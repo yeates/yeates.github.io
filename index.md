@@ -9,7 +9,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. Candidate at the [Uni
 
 ## News
 
-- **[04/2025]**: Technical report for our 32×-compressed latent SR model [ZipIR](https://arxiv.org/pdf/2504.08591) is now available!
+- **[04/2025]**: Our 32×-compressed latent SR model [ZipIR](https://arxiv.org/pdf/2504.08591) technical report is available! (Completed Nov 2024, delayed release due to patent closure)
 - **[03/2025]**: [OmniPaint](https://www.yongshengyu.com/OmniPaint-Page/) project website and [technical report](https://arxiv.org/abs/2503.08677) are released!
 - **[02/2025]**: I will join [NVIDIA](https://www.nvidia.com/en-us/) as a Research Intern this summer.
 - **[09/2024]**: Our [PromptFix](https://arxiv.org/pdf/2405.16785) is accepted to [NeurIPS](https://neurips.cc/Conferences/2024) 2024, see our [code](https://github.com/yeates/PromptFix) and [data](https://huggingface.co/datasets/yeates/PromptfixData). &#127880;
