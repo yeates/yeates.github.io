@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I am broadly interested in the field of computer vision and machine learning, with a specific focus on visual generation and editing. I have interned at Adobe Research and MSRA.
+Welcome to Yongsheng's home page. I am a second-year Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester.edu/), under the supervision of Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/). I am broadly interested in the field of computer vision and machine learning, with a specific focus on visual generation and editing. I have interned at Adobe Research and MSRA.
 
 
 ## News
 
+- **[04/2025]**: Technical report for our 32×-compressed latent SR model [ZipIR](https://arxiv.org/pdf/2504.08591) is now available!
 - **[03/2025]**: [OmniPaint](https://www.yongshengyu.com/OmniPaint-Page/) project website and [technical report](https://arxiv.org/abs/2503.08677) are released!
 - **[02/2025]**: I will join [NVIDIA](https://www.nvidia.com/en-us/) as a Research Intern this summer.
 - **[09/2024]**: Our [PromptFix](https://arxiv.org/pdf/2405.16785) is accepted to [NeurIPS](https://neurips.cc/Conferences/2024) 2024, see our [code](https://github.com/yeates/PromptFix) and [data](https://huggingface.co/datasets/yeates/PromptfixData). &#127880;
@@ -34,7 +35,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
   </div>
   <div id="internship-adobe-24" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://research.adobe.com/">Adobe Research</a></div>
-      <div class="author">[05/2024 - Present] | San Jose, US</div>
+      <div class="author">[May 2024 - April 2025] | San Jose, US</div>
       <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=hLG8AmwAAAAJ&hl=en">Haitian Zheng</a>, <a href="https://scholar.google.com/citations?user=NINFXC0AAAAJ&hl=en">Connelly Barnes</a>, <a href="https://scholar.google.com/citations?hl=en&user=R0bnqaAAAAAJ">Zhe Lin</a></div>
   </div>
 </div>
@@ -48,7 +49,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
   </div>
   <div id="internship-msra" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">Microsoft Research Asia</a></div>
-      <div class="author">[05/2023 - 08/2023] | Beijing, China</div>
+      <div class="author">[May 2023 - August 2023] | Beijing, China</div>
       <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=O8NTlooAAAAJ&hl=en">Huan Yang</a>, <a href="https://scholar.google.com/citations?user=-WqSwu8AAAAJ&hl=en">Jianlong Fu</a></div>
   </div>
 </div>
@@ -74,14 +75,40 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
       <div class="title"><a href="https://arxiv.org/abs/2503.08677">OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting</a></div>
       <div class="author"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Haitian Zheng, Jiebo Luo</div>
       <div class="periodical"><em>In submission, 2025.</em>
-      <!-- <a href="https://github.com/yeates/OmniPaint">
+      <a href="https://github.com/yeates/OmniPaint">
       <img src="https://img.shields.io/github/stars/yeates/OmniPaint?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 5px; margin-top: -5px;">
-      </a> -->
+      </a>
       </div>
     <div class="links">
       <a href="https://www.yongshengyu.com/OmniPaint-Page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a>
       <a href="https://arxiv.org/pdf/2503.08677" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/yeates/OmniPaint" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (release after acceptance)</a>
+      <!-- <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OmniPaint%3A+You+Prompt+and+We+Fix+the+Photo&btnG=#d=gs_cit&t=1717276171483&u=%2Fscholar%3Fq%3Dinfo%3AmjbIp5vw_zcJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://s2.loli.net/2025/04/14/1TYjHhpcwQ7u2vF.jpg" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Preprint</abbr>
+  </div>
+  <div id="yu25omnipaint" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2504.08591">ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration</a></div>
+      <div class="author" style="font-size: 0.9em;"><strong>Yongsheng Yu</strong>*, Haitian Zheng, Zhifei Zhang, Jianming Zhang, Yuqian Zhou, Connelly Barnes, Yuchen Liu, Wei Xiong, Zhe Lin, Jiebo Luo</div>
+      <div class="periodical"><em>In submission, 2025.</em>
+      <!-- <a href="https://github.com/yeates/OmniPaint">
+      <img src="https://img.shields.io/github/stars/yeates/OmniPaint?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 5px; margin-top: -5px;">
+      </a> -->
+      </div>
+    <div class="links">
+      <!-- <a href="https://www.yongshengyu.com/OmniPaint-Page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project</a> -->
+      <a href="https://arxiv.org/pdf/2504.08591" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/yeates/OmniPaint" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code (release after acceptance)</a> -->
       <!-- <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OmniPaint%3A+You+Prompt+and+We+Fix+the+Photo&btnG=#d=gs_cit&t=1717276171483&u=%2Fscholar%3Fq%3Dinfo%3AmjbIp5vw_zcJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
@@ -127,7 +154,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. student at the [Unive
   </div>
   <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2305.11818">MaGIC: Multi-modality Guided Image Completion</a></div>
-      <div class="author">Hao Wang*, <strong>Yongsheng Yu</strong>*, Tiejian Luo, Heng Fan, Libo Zhang</div>
+      <div class="author">Hao Wang*, <strong>Yongsheng Yu</strong>, Tiejian Luo, Heng Fan, Libo Zhang</div>
       <div class="periodical"><em>International Conference on Learning Representations (ICLR), 2024.</em>
       </div>
     <div class="links">
