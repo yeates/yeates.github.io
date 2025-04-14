@@ -99,7 +99,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. Candidate at the [Uni
   </div>
   <div id="yu25omnipaint" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2504.08591">ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration</a></div>
-      <div class="author" style="font-size: 0.9em;"><strong>Yongsheng Yu</strong>*, Haitian Zheng, Zhifei Zhang, Jianming Zhang, Yuqian Zhou, Connelly Barnes, Yuchen Liu, Wei Xiong, Zhe Lin, Jiebo Luo</div>
+      <div class="author" style="font-size: 0.9em;"><strong>Yongsheng Yu</strong>, Haitian Zheng, Zhifei Zhang, Jianming Zhang, Yuqian Zhou, Connelly Barnes, Yuchen Liu, Wei Xiong, Zhe Lin, Jiebo Luo</div>
       <div class="periodical"><em>In submission, 2025.</em>
       <!-- <a href="https://github.com/yeates/OmniPaint">
       <img src="https://img.shields.io/github/stars/yeates/OmniPaint?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 5px; margin-top: -5px;">
@@ -154,7 +154,7 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. Candidate at the [Uni
   </div>
   <div id="yu22unbiased" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2305.11818">MaGIC: Multi-modality Guided Image Completion</a></div>
-      <div class="author">Hao Wang*, <strong>Yongsheng Yu</strong>, Tiejian Luo, Heng Fan, Libo Zhang</div>
+      <div class="author">Hao Wang*, <strong>Yongsheng Yu</strong>*, Tiejian Luo, Heng Fan, Libo Zhang</div>
       <div class="periodical"><em>International Conference on Learning Representations (ICLR), 2024.</em>
       </div>
     <div class="links">
