@@ -31,6 +31,20 @@ Welcome to Yongsheng's home page. I am a second-year Ph.D. Candidate at the [Uni
 <li>
 <div class="pub-row">
   <div style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/nv-logo.png" class="logo">
+  </div>
+  <div id="internship-nvidia-25" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://www.nvidia.com/en-us/">NVIDIA</a></div>
+      <div class="author">[May 2025 - Present] | Santa Clara, US</div>
+      <div class="author">Advisor: <a href="https://scholar.google.com/citations?user=uO0k6DMAAAAJ&hl=en">Wei Xiong</a></div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/adobe-logo.png" class="logo">
   </div>
   <div id="internship-adobe-24" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
