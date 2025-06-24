@@ -13,8 +13,6 @@ favicon_dark: ./assets/img/favicon.jpg
 description: Yongsheng's homepage
 canonical: https://www.yongshengyu.com
 
-theme: minimal-light
-
 exclude:
   - Gemfile
   - Gemfile.lock
