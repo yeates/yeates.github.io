@@ -7,13 +7,14 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 ## News
 
 <div class="news-item">
-<div class="news-date">04/2025</div>
-<div class="news-content">Our 32×-compressed latent SR model <a href="https://arxiv.org/pdf/2504.08591">ZipIR</a> technical report is available!</div>
+<div class="news-date">06/2025</div>
+<div class="news-content"><a href="https://arxiv.org/abs/2503.08677">OmniPaint</a> is accepted to <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</div>
 </div>
 
+
 <div class="news-item">
-<div class="news-date">03/2025</div>
-<div class="news-content"><a href="https://www.yongshengyu.com/OmniPaint-Page/">OmniPaint</a> project website and <a href="https://arxiv.org/abs/2503.08677">technical report</a> are released!</div>
+<div class="news-date">04/2025</div>
+<div class="news-content">32×-compressed latent SR model <a href="https://arxiv.org/pdf/2504.08591">ZipIR</a> report is available! (Completed Nov 2024, delayed release due to patent application)</div>
 </div>
 
 <div class="news-item">
@@ -23,7 +24,7 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 
 <div class="news-item">
 <div class="news-date">09/2024</div>
-<div class="news-content">Our <a href="https://arxiv.org/pdf/2405.16785">PromptFix</a> is accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.</div>
+<div class="news-content"><a href="https://arxiv.org/abs/2405.16785">PromptFix</a> is accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.</div>
 </div>
 
 <div class="news-item">
@@ -31,10 +32,10 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 <div class="news-content">Our MaGIC is accepted to <a href="https://iclr.cc/">ICLR 2024</a>.</div>
 </div>
 
-<div class="news-item">
+<!-- <div class="news-item">
 <div class="news-date">07/2022</div>
 <div class="news-content">Two papers accepted to <a href="https://eccv2022.ecva.net/">ECCV 2022</a>.</div>
-</div>
+</div> -->
 
 ## Experience
 
@@ -75,7 +76,7 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 <div class="pub-content">
 <div class="pub-title"><a href="https://arxiv.org/abs/2503.08677">OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Haitian Zheng, Jiebo Luo</div>
-<div class="pub-venue">In submission, 2025 <a href="https://github.com/yeates/OmniPaint"><img src="https://img.shields.io/github/stars/yeates/OmniPaint?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-venue">ICCV, 2025 <a href="https://github.com/yeates/OmniPaint"><img src="https://img.shields.io/github/stars/yeates/OmniPaint?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
 <div class="pub-links">
 <a href="https://www.yongshengyu.com/OmniPaint-Page/">Project</a>
 <a href="https://arxiv.org/pdf/2503.08677">PDF</a>
