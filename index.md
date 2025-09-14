@@ -4,6 +4,31 @@ layout: homepage
 
 I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester.edu/), working with [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) on computer vision and machine learning. My research focuses on visual generation and editing, bridging the gap between human creativity and computational intelligence.
 
+<div class="pub-stats">
+  <div class="pub-stats-inner">
+    <div class="stat-item">
+      <div class="stat-num">1</div>
+      <div class="stat-desc"><strong>First-author</strong> — ICCV</div>
+    </div>
+    <div class="stat-divider" aria-hidden="true"></div>
+    <div class="stat-item">
+      <div class="stat-num">1</div>
+      <div class="stat-desc"><strong>First-author</strong> — NeurIPS</div>
+    </div>
+    <div class="stat-divider" aria-hidden="true"></div>
+    <div class="stat-item">
+      <div class="stat-num">2</div>
+      <div class="stat-desc"><strong>First-author</strong> — ECCV</div>
+    </div>
+    <div class="stat-divider" aria-hidden="true"></div>
+    <div class="stat-item">
+      <div class="stat-num">2</div>
+      <div class="stat-desc">Co-First author — ICLR / IJCV</div>
+    </div>
+  </div>
+  <br>
+</div>
+
 ## News
 
 <div class="news-item">
@@ -206,8 +231,8 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 </div>
 ## Services
 
-Conference Reviewer:
-- 2025: CVPR, ICCV, ICLR, MM, NeurIPS
+Reviewer:
+- 2025: CVPR, ICCV, ICLR, MM, NeurIPS, AAAI, TIP
 - 2024: CVPR, ECCV, ICML, ICLR, ICME, MM, NeurIPS, WACV
 - 2023: CVPR, ICCV, NeurIPS, WACV
 

@@ -60,7 +60,7 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar"><img src="{{ site.avatar }}" {% if site.avatar_hover %}data-hover="{{ site.avatar_hover }}"{% endif %} alt="avatar" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>

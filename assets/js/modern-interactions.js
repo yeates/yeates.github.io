@@ -23,4 +23,28 @@ document.addEventListener('DOMContentLoaded', function() {
         el.style.transition = 'opacity 0.6s cubic-bezier(0.4, 0, 0.2, 1), transform 0.6s cubic-bezier(0.4, 0, 0.2, 1)';
         observer.observe(el);
     });
+
+    // Avatar hover swap with preload
+    const avatarImg = document.querySelector('header .image.avatar img');
+    if (avatarImg && avatarImg.dataset.hover) {
+        const originalSrc = avatarImg.getAttribute('src');
+        const hoverSrc = avatarImg.dataset.hover;
+        // Preload hover image
+        const preload = new Image();
+        preload.src = hoverSrc;
+
+        avatarImg.addEventListener('mouseenter', () => {
+            avatarImg.setAttribute('src', hoverSrc);
+        });
+        avatarImg.addEventListener('mouseleave', () => {
+            avatarImg.setAttribute('src', originalSrc);
+        });
+        // For keyboard accessibility
+        avatarImg.addEventListener('focus', () => {
+            avatarImg.setAttribute('src', hoverSrc);
+        });
+        avatarImg.addEventListener('blur', () => {
+            avatarImg.setAttribute('src', originalSrc);
+        });
+    }
 });

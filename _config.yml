@@ -7,6 +7,7 @@ google_scholar: https://scholar.google.com/citations?user=QXF5p7QAAAAJ
 github_link: https://github.com/yeates
 linkedin: https://www.linkedin.com/in/yongsheng-yu-87b7b2150/
 avatar: ./assets/img/avatar_2.jpg
+avatar_hover: ./assets/img/avatar_1.jpg
 google_analytics: UA-172331442-1
 favicon: ./assets/img/favicon.jpg
 favicon_dark: ./assets/img/favicon.jpg
