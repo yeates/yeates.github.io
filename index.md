@@ -32,6 +32,12 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 ## News
 
 <div class="news-item">
+<div class="news-date">09/2025</div>
+<div class="news-content">One paper is accepted to NeurIPS 2025.</div>
+</div>
+
+
+<div class="news-item">
 <div class="news-date">06/2025</div>
 <div class="news-content"><a href="https://arxiv.org/abs/2503.08677">OmniPaint</a> is accepted to <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</div>
 </div>
