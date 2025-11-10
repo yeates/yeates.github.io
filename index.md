@@ -22,6 +22,11 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
     </div>
     <div class="stat-divider" aria-hidden="true"></div>
     <div class="stat-item">
+      <div class="stat-num">1</div>
+      <div class="stat-desc">AAAI <strong>first‑author</strong> papers</div>
+    </div>
+    <div class="stat-divider" aria-hidden="true"></div>
+    <div class="stat-item">
       <div class="stat-num">2</div>
       <div class="stat-desc">ICLR / IJCV <strong>co‑first</strong> papers</div>
     </div>
@@ -30,6 +35,12 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 </div>
 
 ## News
+
+<div class="news-item">
+<div class="news-date">11/2025</div>
+<div class="news-content">Our RealUHR is accepted to AAAI 2025.</div>
+</div>
+
 
 <div class="news-item">
 <div class="news-date">09/2025</div>
