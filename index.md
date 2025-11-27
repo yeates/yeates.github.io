@@ -4,7 +4,7 @@ layout: homepage
 
 I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester.edu/), working with [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) on computer vision and machine learning. My research focuses on visual generation and editing, bridging the gap between human creativity and computational intelligence.
 
-<div class="pub-stats">
+<!-- <div class="pub-stats">
   <div class="pub-stats-inner">
     <div class="stat-item">
       <div class="stat-num">1</div>
@@ -32,7 +32,7 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
     </div>
   </div>
   <div class="pub-stats-note">Publication counts by top-tier venues.</div>
-</div>
+</div> -->
 
 ## News
 
@@ -109,6 +109,25 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 </div>
 
 ## Publications
+
+<div class="publication-item">
+<div class="pub-row">
+<div class="pub-image">
+<img src="https://s2.loli.net/2025/11/28/b51ciX3EZ9JeCAz.jpg" alt="PixelDiT">
+</div>
+<div class="pub-content">
+<div class="pub-title"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT: Pixel Diffusion Transformers for Image Generation</a></div>
+<div class="pub-authors"><strong>Yongsheng Yu</strong>, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo</div>
+<div class="pub-venue">Preprint, 2025</div>
+<div class="pub-links">
+<!-- <a href="https://www.yongshengyu.com/OmniPaint-Page/">Project</a> -->
+<a href="https://arxiv.org/pdf/2511.20645">PDF</a>
+<!-- <a href="https://github.com/yeates/OmniPaint">Code</a> -->
+</div>
+</div>
+</div>
+</div>
+
 
 <div class="publication-item">
 <div class="pub-row">

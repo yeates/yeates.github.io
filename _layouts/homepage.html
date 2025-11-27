@@ -113,6 +113,15 @@
         <br>
       </footer>
     </div>
+
+    <div class="image-lightbox" role="dialog" aria-modal="true" aria-label="Expanded publication image" aria-hidden="true">
+      <div class="lightbox-content" role="document">
+        <button type="button" class="lightbox-close" aria-label="Close expanded image">&times;</button>
+        <img class="lightbox-media" src="" alt="">
+        <p class="lightbox-caption"></p>
+      </div>
+    </div>
+
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
