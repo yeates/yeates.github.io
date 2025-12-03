@@ -38,7 +38,9 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 
 <div class="news-item">
 <div class="news-date">12/2025</div>
-<div class="news-content">See our PixelDiT <a href="https://pixeldit.github.io/">project page</a> and <a href="https://arxiv.org/pdf/2511.20645">paper</a>. I’m brewing the code release — just pulling the final espresso shot now.</div>
+<div class="news-content">See our PixelDiT <a href="https://pixeldit.github.io/">project page</a> and <a href="https://arxiv.org/pdf/2511.20645">paper</a>. 
+<!-- I’m brewing the code release — just pulling the final espresso shot now. -->
+</div>
 </div>
 
 
