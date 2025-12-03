@@ -37,6 +37,12 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 ## News
 
 <div class="news-item">
+<div class="news-date">12/2025</div>
+<div class="news-content">See our PixelDiT <a href="https://pixeldit.github.io/">project page</a> and <a href="https://arxiv.org/pdf/2511.20645">paper</a>. I’m brewing the code release — just pulling the final espresso shot now.</div>
+</div>
+
+
+<div class="news-item">
 <div class="news-date">11/2025</div>
 <div class="news-content">Our RealUHR is accepted to AAAI 2025.</div>
 </div>
@@ -120,7 +126,7 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo</div>
 <div class="pub-venue">Preprint, 2025</div>
 <div class="pub-links">
-<!-- <a href="https://www.yongshengyu.com/OmniPaint-Page/">Project</a> -->
+<a href="https://pixeldit.github.io/">Project</a>
 <a href="https://arxiv.org/pdf/2511.20645">PDF</a>
 <!-- <a href="https://github.com/yeates/OmniPaint">Code</a> -->
 </div>
