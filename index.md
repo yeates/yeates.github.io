@@ -2,7 +2,9 @@
 layout: homepage
 ---
 
-I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester.edu/), working with [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) on computer vision and machine learning. My research focuses on visual generation and editing, bridging the gap between human creativity and computational intelligence.
+I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester.edu/), working with Professor [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) on computer vision and machine learning. My research focuses on visual generation and editing, bridging the gap between human creativity and computational intelligence.
+
+<span style="color:#0052CC; font-weight:700;">Open to research collaborations!</span> Always happy to explore fun, cutting-edge ideas—feel free to email <a href="mailto:yyu90@ur.rochester.edu">me</a> to collaborate on something impactful.
 
 <!-- <div class="pub-stats">
   <div class="pub-stats-inner">
@@ -38,6 +40,11 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 
 <div class="news-item">
 <div class="news-date">12/2025</div>
+<div class="news-content">I will serve as an Area Chair for <a href="https://eccv.ecva.net/">ECCV 2026</a>.</div>
+</div>
+
+<div class="news-item">
+<div class="news-date">12/2025</div>
 <div class="news-content">See our PixelDiT <a href="https://pixeldit.github.io/">project page</a> and <a href="https://arxiv.org/pdf/2511.20645">paper</a>. 
 <!-- I’m brewing the code release — just pulling the final espresso shot now. -->
 </div>
@@ -46,19 +53,19 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 
 <div class="news-item">
 <div class="news-date">11/2025</div>
-<div class="news-content">Our RealUHR is accepted to AAAI 2025.</div>
+<div class="news-content">🎈 Our RealUHR is accepted to AAAI 2025.</div>
 </div>
 
 
 <div class="news-item">
 <div class="news-date">09/2025</div>
-<div class="news-content">One paper is accepted to NeurIPS 2025.</div>
+<div class="news-content">🎈 One paper is accepted to NeurIPS 2025.</div>
 </div>
 
 
 <div class="news-item">
 <div class="news-date">06/2025</div>
-<div class="news-content"><a href="https://arxiv.org/abs/2503.08677">OmniPaint</a> is accepted to <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</div>
+<div class="news-content">🎈 <a href="https://arxiv.org/abs/2503.08677">OmniPaint</a> is accepted to <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</div>
 </div>
 
 
@@ -67,19 +74,19 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 <div class="news-content">32×-compressed latent SR model <a href="https://arxiv.org/pdf/2504.08591">ZipIR</a> report is available! (Completed Nov 2024, delayed release due to patent application)</div>
 </div>
 
-<div class="news-item">
+<!-- <div class="news-item">
 <div class="news-date">02/2025</div>
 <div class="news-content">Joining <a href="https://www.nvidia.com/en-us/">NVIDIA</a> as a Research Intern this summer.</div>
-</div>
+</div> -->
 
 <div class="news-item">
 <div class="news-date">09/2024</div>
-<div class="news-content"><a href="https://arxiv.org/abs/2405.16785">PromptFix</a> is accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.</div>
+<div class="news-content">🎈 <a href="https://arxiv.org/abs/2405.16785">PromptFix</a> is accepted to <a href="https://neurips.cc/Conferences/2024">NeurIPS 2024</a>.</div>
 </div>
 
 <div class="news-item">
 <div class="news-date">01/2024</div>
-<div class="news-content">Our MaGIC is accepted to <a href="https://iclr.cc/">ICLR 2024</a>.</div>
+<div class="news-content">🎈 Our MaGIC is accepted to <a href="https://iclr.cc/">ICLR 2024</a>.</div>
 </div>
 
 <!-- <div class="news-item">
@@ -275,10 +282,21 @@ I am a Ph.D. Candidate at the [University of Rochester](https://www.cs.rochester
 </div>
 ## Services
 
-Reviewer:
-- 2025: CVPR, ICCV, ICLR, MM, NeurIPS, AAAI, TIP
-- 2024: CVPR, ECCV, ICML, ICLR, ICME, MM, NeurIPS, WACV
-- 2023: CVPR, ICCV, NeurIPS, WACV
+<div class="experience-item">
+<div class="exp-header">
+<div class="exp-title">Area Chair</div>
+<div class="exp-duration">2026</div>
+</div>
+<div class="exp-role">Invited Area Chair for ECCV 2026.</div>
+</div>
+
+<div class="experience-item">
+<div class="exp-header">
+<div class="exp-title">Reviewer</div>
+<div class="exp-duration">2023–2025</div>
+</div>
+<div class="exp-role">2025: CVPR, ICCV, ICLR, MM, NeurIPS, AAAI, TIP, IJCV<br>2024: CVPR, ECCV, ICML, ICLR, ICME, MM, NeurIPS, WACV<br>2023: CVPR, ICCV, NeurIPS, WACV</div>
+</div>
 
 <br>
 
