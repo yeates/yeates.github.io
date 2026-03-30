@@ -4,7 +4,7 @@
     <title>{{ site.title }}'s Homepage</title>
 
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
     <meta name="description" content="{{ site.title }}">
     <meta name="keywords" content="{{ site.keywords }}">
 
@@ -56,46 +56,40 @@
     
     <div class="wrapper">
       <header>
-        
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar | relative_url }}" {% if site.avatar_hover %}data-hover="{{ site.avatar_hover | relative_url }}"{% endif %} alt="avatar" /></a>
-        {% endif %}
-
-        <h1>{{ site.title }}</h1>
-
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
-        {% endif %}
-        {{ site.affiliation }}
-        <br>
-        <email>{{ site.email }}</email>
-
-        <br>
-        <br>
-        <div class="social-icons">
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>         
-
-        <!-- <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
-        </a> -->
-
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
-        </a>
-
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
-        </a>
-
-        <!-- <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-twitter"></i>
-        </a> -->
+        <div class="header-inner">
+          <div class="header-left">
+            {% if site.avatar %}
+            <a class="image avatar"><img src="{{ site.avatar | relative_url }}" {% if site.avatar_hover %}data-hover="{{ site.avatar_hover | relative_url }}"{% endif %} alt="avatar" /></a>
+            {% endif %}
+            <div class="header-info">
+              <h1>{{ site.title }}</h1>
+              {% if site.position %}
+              <span class="position">{{ site.position }}</span>
+              {% endif %}
+              <span class="affiliation">{{ site.affiliation }}</span>
+              <div class="social-icons">
+                <a href="mailto:yyu90@ur.rochester.edu"><i class="fas fa-envelope"></i></a>
+                <a href="{{ site.google_scholar }}"><i class="ai ai-google-scholar"></i></a>
+                <a href="{{ site.github_link }}"><i class="fab fa-github"></i></a>
+                <a href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="pub-stats">
+            <p class="header-bio">Third-year Ph.D. student in the <a href="https://www.cs.rochester.edu/u/jluo/">VIStA Lab</a> at the <a href="https://www.cs.rochester.edu/">University of Rochester</a>, advised by Albert Arendt Hopeman Professor <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>. My research focuses on image generation foundation models and visual editing.</p>
+            <div class="pub-stats-headline">
+              <div class="pub-stats-num">6</div>
+              <div class="pub-stats-desc">first-authored papers<br>at top-tier venues</div>
+            </div>
+            <div class="venue-chips">
+              <span class="venue-chip">CVPR <span class="venue-count">&times;1</span></span>
+              <span class="venue-chip">ICCV <span class="venue-count">&times;1</span></span>
+              <span class="venue-chip">NeurIPS <span class="venue-count">&times;1</span></span>
+              <span class="venue-chip">ECCV <span class="venue-count">&times;2</span></span>
+              <span class="venue-chip">AAAI <span class="venue-count">&times;1</span></span>
+            </div>
+          </div>
         </div>
-        <br>
-
       </header>
       <section>
 
@@ -106,7 +100,6 @@
 
       </section>
       <footer>
-        </div>
         <br>
         <br>
       </footer>

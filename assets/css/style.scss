@@ -3,68 +3,158 @@
 
 @import "minimal-light";
 
-/* Apple-style publication stats */
+/* Publication stats showcase */
 .pub-stats {
-  margin: 28px 0 12px;
+  margin: 0;
+  padding: 0;
 }
 
-.pub-stats-inner {
+.pub-stats-headline {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 24px;
-  padding: 20px 22px;
-  border: 1px solid rgba(0,0,0,0.08);
-  border-radius: 18px;
-  background: rgba(255,255,255,0.6);
-  -webkit-backdrop-filter: saturate(180%) blur(16px);
-  backdrop-filter: saturate(180%) blur(16px);
+  align-items: baseline;
+  gap: 20px;
 }
 
-.stat-item {
-  flex: 1 1 0;
-  text-align: center;
-}
-
-.stat-num {
-  font-size: 40px;
-  line-height: 1.1;
+.pub-stats-num {
+  font-size: 48px;
+  line-height: 1;
   font-weight: 700;
   letter-spacing: -0.02em;
-  color: #111;
+  color: #0052CC;
+  font-family: 'JetBrains Mono', Monaco, monospace;
 }
 
-.stat-desc {
-  margin-top: 6px;
+.pub-stats-desc {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.5;
+}
+
+.venue-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.venue-chip {
+  display: inline-block;
+  padding: 3px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #0052CC;
+  background: #E8F0FE;
+  border-radius: 4px;
+  letter-spacing: 0.02em;
+  font-family: 'JetBrains Mono', Monaco, monospace;
+}
+
+.venue-count {
+  opacity: 0.7;
+  font-weight: 400;
+  font-size: 11px;
+  margin-left: 2px;
+}
+
+.venue-full {
+  font-size: 12px;
+  color: #777777;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.pub-note {
+  font-size: 11px;
+  color: #777777;
+  margin-bottom: 4px;
+  font-style: italic;
+}
+
+/* Venue badges in publication list */
+.venue-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  background: #E8F0FE;
+  color: #0052CC;
+  border-radius: 3px;
+  font-family: 'JetBrains Mono', Monaco, monospace;
+  letter-spacing: 0.02em;
+}
+
+.venue-badge.submission {
+  background: #FFF8E1;
+  color: #B8860B;
+}
+
+/* First-author / co-first — no left border */
+
+/* Author annotation */
+.author-note {
+  font-size: 11px;
+  color: #777777;
+  font-style: italic;
+  margin-left: 4px;
+}
+
+/* Collaboration callout */
+.collab-callout {
+  color: #0052CC;
+  font-weight: 700;
+}
+
+/* Services Table */
+.service-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.service-table tr {
+  vertical-align: top;
+}
+
+.service-table td {
+  padding: 12px 0;
+  border-bottom: 1px solid #F5F5F5;
   font-size: 14px;
   color: #555;
+  line-height: 1.6;
 }
 
-.stat-divider {
-  width: 1px;
-  height: 44px;
-  background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.16), rgba(0,0,0,0));
+.service-table tr:last-child td {
+  border-bottom: none;
 }
 
-.pub-stats-note {
-  margin-top: 10px;
-  font-size: 12px;
-  color: #888;
-  text-align: center;
+.service-key {
+  font-weight: 600;
+  color: #2D2D2D;
+  white-space: nowrap;
+  padding-right: 32px !important;
+  width: 1%;
 }
 
 @media (max-width: 720px) {
-  .pub-stats-inner {
+  .pub-stats-headline {
     flex-direction: column;
-    align-items: stretch;
-    gap: 16px;
+    align-items: center;
+    gap: 8px;
+    text-align: center;
   }
-  .stat-divider {
-    width: 100%;
-    height: 1px;
-    background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.16), rgba(0,0,0,0));
+  .pub-stats-num {
+    font-size: 40px;
   }
-  .stat-num {
-    font-size: 34px;
+  .venue-chips {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .pub-stats {
+    padding: 20px;
+  }
+  .pub-stats-num {
+    font-size: 36px;
   }
 }
