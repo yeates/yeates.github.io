@@ -10,24 +10,19 @@
 }
 
 .pub-stats-headline {
-  display: flex;
-  align-items: baseline;
-  gap: 20px;
-}
-
-.pub-stats-num {
-  font-size: 48px;
-  line-height: 1;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  color: #0052CC;
-  font-family: 'JetBrains Mono', Monaco, monospace;
+  margin-top: 2px;
 }
 
 .pub-stats-desc {
   font-size: 15px;
   color: #555;
-  line-height: 1.5;
+  line-height: 1.6;
+  font-weight: 500;
+}
+
+.pub-stats-emphasis {
+  color: #0052CC;
+  font-weight: 700;
 }
 
 .venue-chips {
@@ -167,13 +162,7 @@
 
 @media (max-width: 720px) {
   .pub-stats-headline {
-    flex-direction: column;
-    align-items: center;
-    gap: 8px;
     text-align: center;
-  }
-  .pub-stats-num {
-    font-size: 40px;
   }
   .venue-chips {
     justify-content: center;
@@ -183,8 +172,5 @@
 @media (max-width: 480px) {
   .pub-stats {
     padding: 20px;
-  }
-  .pub-stats-num {
-    font-size: 36px;
   }
 }
