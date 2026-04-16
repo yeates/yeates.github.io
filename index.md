@@ -112,6 +112,9 @@ layout: homepage
 <div class="pub-links">
 <a href="https://pixeldit.github.io/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2511.20645"><i class="fas fa-file-pdf"></i> PDF</a>
+<a href="https://github.com/NVlabs/PixelDiT"><i class="fab fa-github"></i> Code</a>
+<a href="https://huggingface.co/nvidia/PixelDiT-ImageNet"><i class="fas fa-cube"></i> ImageNet Model</a>
+<a href="https://huggingface.co/nvidia/PixelDiT-1300M-1024px"><i class="fas fa-cube"></i> T2I Model</a>
 </div>
 </div>
 </div>
