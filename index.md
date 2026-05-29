@@ -8,6 +8,16 @@ layout: homepage
 <div class="news-list" id="news-list">
 
 <div class="news-item">
+<div class="news-date">05/2026</div>
+<div class="news-content">Our agentic unified video editing framework, <a href="https://arxiv.org/abs/2605.18748">Aurora</a>, is available! </div>
+</div>
+
+<div class="news-item">
+<div class="news-date">05/2026</div>
+<div class="news-content"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT</a> is selected as a <a href="https://cvpr.thecvf.com/virtual/2026/poster/37566">CVPR 2026 Award Candidate</a> <span class="venue-badge award">Award Candidate</span></div>
+</div>
+
+<div class="news-item">
 <div class="news-date">02/2026</div>
 <div class="news-content"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT</a> is accepted to <a href="https://cvpr.thecvf.com/">CVPR 2026</a> <span class="venue-badge oral">Oral</span></div>
 </div>
@@ -105,16 +115,36 @@ layout: homepage
 <img src="assets/img/pixeldit_teaser.jpg" alt="PixelDiT">
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge">CVPR 2026</span> <span class="venue-badge oral">Oral</span></div>
+<div class="pub-venue"><span class="venue-badge">CVPR 2026</span> <span class="venue-badge oral">Oral</span> <span class="venue-badge award">Award Candidate</span> <a href="https://github.com/NVlabs/PixelDiT"><img src="https://img.shields.io/github/stars/NVlabs/PixelDiT?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
 <div class="pub-title"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT: Pixel Diffusion Transformers for Image Generation</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo</div>
-<div class="venue-full">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, Oral</div>
+<div class="venue-full">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, Oral &amp; Award Candidate</div>
 <div class="pub-links">
 <a href="https://pixeldit.github.io/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2511.20645"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/NVlabs/PixelDiT"><i class="fab fa-github"></i> Code</a>
 <a href="https://huggingface.co/nvidia/PixelDiT-ImageNet"><i class="fas fa-cube"></i> ImageNet Model</a>
 <a href="https://huggingface.co/nvidia/PixelDiT-1300M-1024px"><i class="fas fa-cube"></i> T2I Model</a>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="publication-item">
+<div class="pub-row first-author">
+<div class="pub-image">
+<img src="assets/img/aurora_teaser.gif" alt="Aurora">
+</div>
+<div class="pub-content">
+<div class="pub-venue"><span class="venue-badge submission">arXiv 2605.18748</span> <a href="https://github.com/yeates/Aurora"><img src="https://img.shields.io/github/stars/yeates/Aurora?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-title"><a href="https://arxiv.org/abs/2605.18748">Aurora: Unified Video Editing with a Tool-Using Agent</a></div>
+<div class="pub-authors"><strong>Yongsheng Yu</strong>, Ziyun Zeng, Zhiyuan Xiao, Zhenghong Zhou, Hang Hua, Wei Xiong, Jiebo Luo</div>
+<div class="venue-full">arXiv preprint, 2026</div>
+<div class="pub-links">
+<a href="https://yeates.github.io/Aurora-Page"><i class="fas fa-globe"></i> Project</a>
+<a href="https://arxiv.org/pdf/2605.18748"><i class="fas fa-file-pdf"></i> PDF</a>
+<a href="https://github.com/yeates/Aurora"><i class="fab fa-github"></i> Code</a>
 </div>
 </div>
 </div>
@@ -325,7 +355,7 @@ layout: homepage
 <table class="service-table">
 <tr><td class="service-key">Area Chair</td><td>ECCV 2026</td></tr>
 <tr><td class="service-key">Conference Reviewer</td><td>
-2026: CVPR, AAAI<br>
+2026: CVPR, AAAI, NeurIPS<br>
 2025: CVPR, ICCV, ICLR, NeurIPS, AAAI, MM<br>
 2024: CVPR, ECCV, ICML, ICLR, NeurIPS, ICME, MM, WACV<br>
 2023: CVPR, ICCV, NeurIPS, WACV</td></tr>
