@@ -8,13 +8,13 @@ layout: homepage
 <div class="news-list" id="news-list">
 
 <div class="news-item">
-<div class="news-date">05/2026</div>
-<div class="news-content">Our agentic unified video editing framework, <a href="https://arxiv.org/abs/2605.18748">Aurora</a>, is available! </div>
+<div class="news-date">06/2026</div>
+<div class="news-content"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT</a> is selected as a CVPR 2026 Best Paper Finalist!</div>
 </div>
 
 <div class="news-item">
 <div class="news-date">05/2026</div>
-<div class="news-content"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT</a> is selected as a <a href="https://cvpr.thecvf.com/virtual/2026/poster/37566">CVPR 2026 Award Candidate</a> <span class="venue-badge award">Award Candidate</span></div>
+<div class="news-content">Our agentic unified video editing framework <a href="https://arxiv.org/abs/2605.18748">Aurora</a> is available. </div>
 </div>
 
 <div class="news-item">
@@ -115,10 +115,10 @@ layout: homepage
 <img src="assets/img/pixeldit_teaser.jpg" alt="PixelDiT">
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge">CVPR 2026</span> <span class="venue-badge oral">Oral</span> <span class="venue-badge award">Award Candidate</span> <a href="https://github.com/NVlabs/PixelDiT"><img src="https://img.shields.io/github/stars/NVlabs/PixelDiT?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-venue"><span class="venue-badge">CVPR 2026</span> <span class="venue-badge oral">Oral</span> <span class="venue-badge award">Best Paper Finalist</span> <a href="https://github.com/NVlabs/PixelDiT"><img src="https://img.shields.io/github/stars/NVlabs/PixelDiT?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
 <div class="pub-title"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT: Pixel Diffusion Transformers for Image Generation</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo</div>
-<div class="venue-full">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, Oral &amp; Award Candidate</div>
+<div class="venue-full">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, Oral &amp; Best Paper Finalist</div>
 <div class="pub-links">
 <a href="https://pixeldit.github.io/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2511.20645"><i class="fas fa-file-pdf"></i> PDF</a>
