@@ -2,6 +2,9 @@
 layout: homepage
 ---
 
+<div class="job-market-banner">
+<i class="fas fa-briefcase"></i> <strong>On the job market.</strong> I am currently seeking a full-time industry research position. If you are interested in my work, I would welcome the opportunity to connect and would be grateful for any inquiries or referrals. Please feel free to <a href="mailto:yyu90@ur.rochester.edu">contact me</a>.
+</div>
 
 ## News
 
