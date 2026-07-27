@@ -27,7 +27,7 @@ layout: homepage
 
 <div class="news-item">
 <div class="news-date">12/2025</div>
-<div class="news-content">I will serve as an Area Chair for <a href="https://eccv.ecva.net/">ECCV 2026</a>.</div>
+<div class="news-content">I will serve as an <a href="https://eccv.ecva.net/Conferences/2026/ProgramCommittee#:~:text=Yongsheng%20Yu">Area Chair for ECCV 2026</a>.</div>
 </div>
 
 <div class="news-item">
