@@ -367,11 +367,11 @@ body.lightbox-open {
 }
 
 /* News Section */
-.news-list .news-item:nth-child(n+5) {
+.news-list .news-item:nth-child(n+6) {
   display: none;
 }
 
-.news-list.expanded .news-item:nth-child(n+5) {
+.news-list.expanded .news-item:nth-child(n+6) {
   display: flex;
 }
 

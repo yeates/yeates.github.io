@@ -11,6 +11,11 @@ layout: homepage
 <div class="news-list" id="news-list">
 
 <div class="news-item">
+<div class="news-date">09/2026</div>
+<div class="news-content">I will serve as an Area Chair for CVPR 2027.</div>
+</div>
+
+<div class="news-item">
 <div class="news-date">06/2026</div>
 <div class="news-content"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT</a> is selected as a CVPR 2026 Best Paper Finalist!</div>
 </div>
@@ -27,7 +32,7 @@ layout: homepage
 
 <div class="news-item">
 <div class="news-date">12/2025</div>
-<div class="news-content">I will serve as an <a href="https://eccv.ecva.net/Conferences/2026/ProgramCommittee#:~:text=Yongsheng%20Yu">Area Chair for ECCV 2026</a>.</div>
+<div class="news-content">I will serve as an <a href="https://eccv.ecva.net/Conferences/2026/ProgramCommittee#:~:text=Yongsheng%20Yu">Area Chair</a> for ECCV 2026.</div>
 </div>
 
 <div class="news-item">
@@ -356,7 +361,7 @@ layout: homepage
 ## Services
 
 <table class="service-table">
-<tr><td class="service-key">Area Chair</td><td>ECCV 2026</td></tr>
+<tr><td class="service-key">Area Chair</td><td>ECCV 2026, CVPR 2027</td></tr>
 <tr><td class="service-key">Conference Reviewer</td><td>
 2026: CVPR, AAAI, NeurIPS<br>
 2025: CVPR, ICCV, ICLR, NeurIPS, AAAI, MM<br>
