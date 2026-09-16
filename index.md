@@ -372,5 +372,5 @@ layout: homepage
 
 <!-- ClustrMaps (hidden, analytics only) -->
 <div style="display:none;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=RoDpcfB2vG1lN_1So1H7EOpCNMohRUZg7CEirev-baw&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=A2T58r86aBGvkHGExji5H213K01bLGRtrAuJOCCwIvg&cl=ffffff&w=a"></script>
 </div>
