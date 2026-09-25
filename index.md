@@ -12,6 +12,11 @@ layout: homepage
 
 <div class="news-item">
 <div class="news-date">09/2026</div>
+<div class="news-content"><a href="https://arxiv.org/abs/2609.24919">PixelDiT2</a> and <a href="https://arxiv.org/abs/2605.18748">Aurora</a> are accepted to <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>!</div>
+</div>
+
+<div class="news-item">
+<div class="news-date">09/2026</div>
 <div class="news-content">I will serve as an Area Chair for CVPR 2027.</div>
 </div>
 
@@ -120,6 +125,24 @@ layout: homepage
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
+<img src="assets/img/pixeldit2_teaser.png" alt="PixelDiT2 architecture">
+</div>
+<div class="pub-content">
+<div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span></div>
+<div class="pub-title"><a href="https://arxiv.org/abs/2609.24919">PixelDiT2: Representation-Grounded Pixel Diffusion Transformers</a></div>
+<div class="pub-authors"><strong>Yongsheng Yu</strong>, Wei Xiong, Yichen Sheng, Shiqiu Liu, Jiebo Luo</div>
+<div class="venue-full">Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</div>
+<div class="pub-links">
+<a href="https://arxiv.org/pdf/2609.24919"><i class="fas fa-file-pdf"></i> PDF</a>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="publication-item">
+<div class="pub-row first-author">
+<div class="pub-image">
 <img src="assets/img/pixeldit_teaser.jpg" alt="PixelDiT">
 </div>
 <div class="pub-content">
@@ -145,10 +168,10 @@ layout: homepage
 <img src="assets/img/aurora_teaser.gif" alt="Aurora">
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge submission">arXiv 2605.18748</span> <a href="https://github.com/yeates/Aurora"><img src="https://img.shields.io/github/stars/yeates/Aurora?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span> <a href="https://github.com/yeates/Aurora"><img src="https://img.shields.io/github/stars/yeates/Aurora?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2605.18748">Aurora: Unified Video Editing with a Tool-Using Agent</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Ziyun Zeng, Zhiyuan Xiao, Zhenghong Zhou, Hang Hua, Wei Xiong, Jiebo Luo</div>
-<div class="venue-full">arXiv preprint, 2026</div>
+<div class="venue-full">Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</div>
 <div class="pub-links">
 <a href="https://yeates.github.io/Aurora-Page"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2605.18748"><i class="fas fa-file-pdf"></i> PDF</a>
