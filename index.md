@@ -86,11 +86,21 @@ layout: homepage
       <img src="assets/img/nv-logo.png" alt="NVIDIA" class="exp-logo">
     </a>
     <div class="exp-detail">
-      <div class="exp-header">
-        <div class="exp-title"><a href="https://www.nvidia.com/en-us/">NVIDIA</a></div>
-        <div class="exp-duration">May 2025 - Present</div>
+      <div class="exp-title"><a href="https://www.nvidia.com/en-us/">NVIDIA</a></div>
+      <div class="exp-stint">
+        <div class="exp-header">
+          <div class="exp-role">Research Intern · Santa Clara, US</div>
+          <div class="exp-duration">June 2026 - Present</div>
+        </div>
+        <div class="exp-topic">Developing next-generation DLSS (beyond <a href="https://research.nvidia.com/labs/adlr/DLSS5/">DLSS 5</a>)</div>
       </div>
-      <div class="exp-role">Research Intern · Santa Clara, US</div>
+      <div class="exp-stint">
+        <div class="exp-header">
+          <div class="exp-role">Research Intern · Santa Clara, US</div>
+          <div class="exp-duration">May 2025 - May 2026</div>
+        </div>
+        <div class="exp-topic">Research on the PixelDiT series (<a href="https://pixeldit.github.io/">PixelDiT</a>, <a href="https://pixeldit.github.io/pixeldit2/">PixelDiT2</a>)</div>
+      </div>
     </div>
   </div>
   <div class="exp-card">
@@ -128,12 +138,15 @@ layout: homepage
 <img src="assets/img/pixeldit2_teaser.png" alt="PixelDiT2 architecture">
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span></div>
+<div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span><a href="https://github.com/NVlabs/PixelDiT"><img src="https://img.shields.io/github/stars/NVlabs/PixelDiT?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2609.24919">PixelDiT2: Representation-Grounded Pixel Diffusion Transformers</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Wei Xiong, Yichen Sheng, Shiqiu Liu, Jiebo Luo</div>
 <div class="venue-full">Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</div>
 <div class="pub-links">
+<a href="https://pixeldit.github.io/pixeldit2/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2609.24919"><i class="fas fa-file-pdf"></i> PDF</a>
+<a href="https://github.com/NVlabs/PixelDiT"><i class="fab fa-github"></i> Code</a>
+<a href="https://huggingface.co/nvidia/PixelDiT2-ImageNet"><i class="fas fa-cube"></i> ImageNet Model</a>
 </div>
 </div>
 </div>
@@ -176,12 +189,15 @@ layout: homepage
 <a href="https://yeates.github.io/Aurora-Page"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2605.18748"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/yeates/Aurora"><i class="fab fa-github"></i> Code</a>
+<a href="https://huggingface.co/yeates/aurora-weights"><i class="fas fa-cube"></i> Model</a>
+<a href="https://huggingface.co/datasets/yeates/aurora-training-data"><i class="fas fa-database"></i> Dataset</a>
 </div>
 </div>
 </div>
 </div>
 
 
+<!-- RealUHR (AAAI 2026)
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
@@ -198,6 +214,7 @@ layout: homepage
 </div>
 </div>
 </div>
+-->
 
 <div class="publication-item">
 <div class="pub-row co-first">
@@ -214,11 +231,14 @@ layout: homepage
 <a href="https://www.yongshengyu.com/OmniPaint-Page/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2503.08677"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/yeates/OmniPaint"><i class="fab fa-github"></i> Code</a>
+<a href="https://huggingface.co/yeates/OmniPaint"><i class="fas fa-cube"></i> Model</a>
+<a href="https://huggingface.co/datasets/yeates/omnipaint-bench"><i class="fas fa-database"></i> Benchmark</a>
 </div>
 </div>
 </div>
 </div>
 
+<!-- MMInvertFill (IJCV 2025)
 <div class="publication-item">
 <div class="pub-row co-first">
 <div class="pub-image">
@@ -235,7 +255,9 @@ layout: homepage
 </div>
 </div>
 </div>
+-->
 
+<!-- GPT-4V Social Media (ACM TIST 2025)
 <div class="publication-item">
 <div class="pub-row co-first">
 <div class="pub-image">
@@ -252,7 +274,9 @@ layout: homepage
 </div>
 </div>
 </div>
+-->
 
+<!-- ZipIR (arXiv 2504.08591)
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
@@ -269,6 +293,7 @@ layout: homepage
 </div>
 </div>
 </div>
+-->
 
 <div class="publication-item">
 <div class="pub-row co-first">
@@ -291,6 +316,7 @@ layout: homepage
 </div>
 </div>
 
+<!-- MaGIC (ICLR 2024)
 <div class="publication-item">
 <div class="pub-row co-first">
 <div class="pub-image">
@@ -310,7 +336,9 @@ layout: homepage
 </div>
 </div>
 </div>
+-->
 
+<!-- Chain-of-Thought Demographic Inference (ICME 2024)
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
@@ -327,7 +355,9 @@ layout: homepage
 </div>
 </div>
 </div>
+-->
 
+<!-- DMT (arXiv 2307.08629)
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
@@ -345,6 +375,7 @@ layout: homepage
 </div>
 </div>
 </div>
+-->
 
 <div class="publication-item">
 <div class="pub-row first-author">
