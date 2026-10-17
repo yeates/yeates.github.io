@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-<div class="job-market-banner">
+<!-- <div class="job-market-banner">
 <i class="fas fa-briefcase"></i> <strong>On the job market.</strong> I am currently seeking a full-time industry position. If you are interested in my work, I would welcome the opportunity to connect and would be grateful for any inquiries or referrals. Please feel free to <a href="mailto:yyu90@ur.rochester.edu">contact me</a>.
-</div>
+</div> -->
 
 ## News
 
@@ -417,7 +417,7 @@ layout: homepage
 <table class="service-table">
 <tr><td class="service-key">Area Chair</td><td>ECCV 2026, CVPR 2027</td></tr>
 <tr><td class="service-key">Conference Reviewer</td><td>
-2026: CVPR, AAAI, NeurIPS<br>
+2026: CVPR <span class="venue-badge award">Outstanding Reviewer</span>, AAAI, NeurIPS<br>
 2025: CVPR, ICCV, ICLR, NeurIPS, AAAI, MM<br>
 2024: CVPR, ECCV, ICML, ICLR, NeurIPS, ICME, MM, WACV<br>
 2023: CVPR, ICCV, NeurIPS, WACV</td></tr>
