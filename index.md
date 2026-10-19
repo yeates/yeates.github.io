@@ -11,6 +11,11 @@ layout: homepage
 <div class="news-list" id="news-list">
 
 <div class="news-item">
+<div class="news-date">10/2026</div>
+<div class="news-content"><a href="https://arxiv.org/abs/2504.08591">ZipIR</a>-powered Firefly Upscaler 2 is now in Photoshop Beta, with 6×/8× upscaling up to 67 MP (8192×8192)!</div>
+</div>
+
+<div class="news-item">
 <div class="news-date">09/2026</div>
 <div class="news-content"><a href="https://arxiv.org/abs/2609.24919">PixelDiT2</a> and <a href="https://arxiv.org/abs/2605.18748">Aurora</a> are accepted to <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a>!</div>
 </div>
@@ -25,10 +30,10 @@ layout: homepage
 <div class="news-content"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT</a> is selected as a CVPR 2026 Best Paper Finalist!</div>
 </div>
 
-<div class="news-item">
+<!-- <div class="news-item">
 <div class="news-date">05/2026</div>
 <div class="news-content">Our agentic unified video editing framework <a href="https://arxiv.org/abs/2605.18748">Aurora</a> is available. </div>
-</div>
+</div> -->
 
 <div class="news-item">
 <div class="news-date">02/2026</div>
@@ -113,6 +118,7 @@ layout: homepage
         <div class="exp-duration">May 2024 - Apr 2025</div>
       </div>
       <div class="exp-role">Research Intern · San Jose, US</div>
+      <div class="exp-topic">Research on high-resolution image restoration (<a href="https://arxiv.org/abs/2504.08591">ZipIR</a>), now shipped in Adobe Photoshop</div>
     </div>
   </div>
   <div class="exp-card">
@@ -135,7 +141,7 @@ layout: homepage
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
-<img src="assets/img/pixeldit2_teaser.png" alt="PixelDiT2 architecture">
+<video src="assets/img/pixeldit2_teaser.mp4" poster="assets/img/pixeldit2_teaser_poster.webp" width="960" height="480" autoplay loop muted playsinline aria-label="PixelDiT2 architecture and convergence versus PixelDiT"></video>
 </div>
 <div class="pub-content">
 <div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span><a href="https://github.com/NVlabs/PixelDiT"><img src="https://img.shields.io/github/stars/NVlabs/PixelDiT?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
@@ -178,7 +184,7 @@ layout: homepage
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
-<img src="assets/img/aurora_teaser.gif" alt="Aurora">
+<video src="assets/img/aurora_teaser.mp4" poster="assets/img/aurora_teaser_poster.webp" width="960" height="480" autoplay loop muted playsinline aria-label="Aurora pipeline, training stages, and editing results"></video>
 </div>
 <div class="pub-content">
 <div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span> <a href="https://github.com/yeates/Aurora"><img src="https://img.shields.io/github/stars/yeates/Aurora?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
@@ -224,8 +230,8 @@ layout: homepage
 <div class="pub-content">
 <div class="pub-venue"><span class="venue-badge">ICCV 2025</span> <a href="https://github.com/yeates/OmniPaint"><img src="https://img.shields.io/github/stars/yeates/OmniPaint?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2503.08677">OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting</a></div>
-<div class="pub-authors"><strong>Yongsheng Yu</strong>*<sup>&dagger;</sup>, Ziyun Zeng*, Haitian Zheng, Jiebo Luo</div>
-<div class="pub-note"><sup>&dagger;</sup> Project lead</div>
+<div class="pub-authors"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Haitian Zheng, Jiebo Luo</div>
+<!-- <div class="pub-note"><sup>&dagger;</sup> Project lead</div> -->
 <div class="venue-full">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</div>
 <div class="pub-links">
 <a href="https://www.yongshengyu.com/OmniPaint-Page/"><i class="fas fa-globe"></i> Project</a>
@@ -276,24 +282,23 @@ layout: homepage
 </div>
 -->
 
-<!-- ZipIR (arXiv 2504.08591)
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
-<img src="https://s2.loli.net/2025/04/14/1TYjHhpcwQ7u2vF.jpg" alt="ZipIR">
+<video src="assets/img/zipir_teaser.mp4" poster="assets/img/zipir_teaser_poster.webp" width="960" height="540" autoplay loop muted playsinline aria-label="ZipIR-powered Firefly Upscaler 2 in Photoshop"></video>
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge submission">arXiv 2504.08591</span></div>
+<div class="pub-venue"><span class="venue-badge submission">arXiv 2504.08591</span> <span class="venue-badge award">Shipped in Photoshop</span></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2504.08591">ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Haitian Zheng, Zhifei Zhang, Jianming Zhang, Yuqian Zhou, Connelly Barnes, Yuchen Liu, Wei Xiong, Zhe Lin, Jiebo Luo</div>
-<div class="venue-full">arXiv preprint, 2025</div>
+<div class="pub-note">Powers Adobe Firefly Upscaler 2 (Generative Upscale) in Photoshop Beta, 2026 · U.S. Patent App. No. 19/190,281</div>
+<!-- <div class="venue-full">arXiv preprint, 2025</div> -->
 <div class="pub-links">
 <a href="https://arxiv.org/pdf/2504.08591"><i class="fas fa-file-pdf"></i> PDF</a>
 </div>
 </div>
 </div>
 </div>
--->
 
 <div class="publication-item">
 <div class="pub-row co-first">
@@ -303,8 +308,8 @@ layout: homepage
 <div class="pub-content">
 <div class="pub-venue"><span class="venue-badge">NeurIPS 2024</span> <a href="https://github.com/yeates/PromptFix"><img src="https://img.shields.io/github/stars/yeates/PromptFix?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2405.16785">PromptFix: You Prompt and We Fix the Photo</a></div>
-<div class="pub-authors"><strong>Yongsheng Yu</strong>*<sup>&dagger;</sup>, Ziyun Zeng*, Hang Hua, Jianlong Fu, Jiebo Luo</div>
-<div class="pub-note"><sup>&dagger;</sup> Project lead</div>
+<div class="pub-authors"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Hang Hua, Jianlong Fu, Jiebo Luo</div>
+<!-- <div class="pub-note"><sup>&dagger;</sup> Project lead</div> -->
 <div class="venue-full">Annual Conference on Neural Information Processing Systems (NeurIPS), 2024</div>
 <div class="pub-links">
 <a href="https://www.yongshengyu.com/PromptFix-Page/"><i class="fas fa-globe"></i> Project</a>
@@ -380,7 +385,7 @@ layout: homepage
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
-<img src="https://s2.loli.net/2022/07/26/P87oHlKk1tNDxrG.png" alt="Unbiased Multi-Modality">
+<video src="assets/img/mmt_teaser.mp4" poster="assets/img/mmt_teaser_poster.webp" width="960" height="480" autoplay loop muted playsinline aria-label="MMT decoding edge and semantic maps from masked images and completing RGB, edges and semantics jointly"></video>
 </div>
 <div class="pub-content">
 <div class="pub-venue"><span class="venue-badge">ECCV 2022</span></div>
@@ -398,7 +403,7 @@ layout: homepage
 <div class="publication-item">
 <div class="pub-row first-author">
 <div class="pub-image">
-<img src="https://s2.loli.net/2022/07/26/Ppk4TmYCqyvf7Zl.png" alt="High-Fidelity Inpainting">
+<video src="assets/img/invertfill_teaser.mp4" poster="assets/img/invertfill_teaser_poster.webp" width="960" height="480" autoplay loop muted playsinline aria-label="InvertFill: inverting the masked image into W+, pre-modulation of the style code, the soft-update mean latent, and the F&amp;W+ latent space that closes the gap between GAN inversion and inpainting"></video>
 </div>
 <div class="pub-content">
 <div class="pub-venue"><span class="venue-badge">ECCV 2022</span></div>

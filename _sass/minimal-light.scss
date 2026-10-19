@@ -198,7 +198,8 @@ papertitle {
   background-color: #F5F5F5;
 }
 
-.pub-image img {
+.pub-image img,
+.pub-image video {
   width: 100%;
   height: auto;
   object-fit: contain;
@@ -293,7 +294,8 @@ body.lightbox-open {
     height: auto;
   }
 
-  .pub-image img {
+  .pub-image img,
+  .pub-image video {
     height: auto;
   }
 
