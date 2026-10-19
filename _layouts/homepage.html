@@ -1,118 +1,68 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }}'s Homepage</title>
-
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
-    <meta name="description" content="{{ site.title }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.title }} is a Ph.D. candidate at the University of Rochester working on visual generation: pixel-space diffusion, video editing, and image restoration.">
     <meta name="keywords" content="{{ site.keywords }}">
 
     <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ site.title }}'s Homepage">
+    <meta property="og:title" content="{{ site.title }}">
     <meta property="og:url" content="{{ site.canonical }}">
-    <meta property="og:site_name" content="{{ site.title }}'s Homepage">
-    <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:locale" content="default">
-    <meta property="og:image" content="{{ site.avatar }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.title }} is a Ph.D. candidate at the University of Rochester working on visual generation: pixel-space diffusion, video editing, and image restoration.">
+    <meta property="og:image" content="{{ site.avatar | remove_first: "." | prepend: site.canonical }}">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{ site.title }}'s Homepage">
-    <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image" content="{{ site.avatar }}">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ site.title }} is a Ph.D. candidate at the University of Rochester working on visual generation: pixel-space diffusion, video editing, and image restoration.">
+    <meta name="twitter:image" content="{{ site.avatar | remove_first: "." | prepend: site.canonical }}">
 
     <link rel="canonical" href="{{site.canonical}}"/>
-
     <link rel="icon" href="{{ site.favicon }}" type="image/png" />
 
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+    <!-- Same type system as the PixelDiT2 / Aurora project pages -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400&display=swap">
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/pub.css" | relative_url }}">
 
-    <script type="text/javascript" src="{{ "/assets/js/jquery.js" | relative_url }}"></script>
-    <script type="text/javascript" src="{{ "/assets/js/modern-interactions.js" | relative_url }}"></script>
-
+    <script defer src="{{ "/assets/js/modern-interactions.js" | relative_url }}"></script>
   </head>
   <body>
-
-    <script src="{{ "/assets/js/vanilla-back-to-top.min.js" | relative_url }}"></script>
-    <script>addBackToTop({
-        backgroundColor: '#fff',
-        innerHTML: 'Back to Top',
-        textColor: '#333'
-      })
-    </script>
-    <style>
-        #back-to-top {
-          border: 1px solid #ccc;
-          border-radius: 0;
-          font-size: 15px;
-          width: 100px;
-          text-align: center;
-          line-height: 30px;
-          height: 30px;
-        }
-    </style>
-    
     <div class="wrapper">
-      <header>
-        <div class="header-inner">
-          <div class="header-left">
-            {% if site.avatar %}
-            <a class="image avatar"><img src="{{ site.avatar | relative_url }}" {% if site.avatar_hover %}data-hover="{{ site.avatar_hover | relative_url }}"{% endif %} alt="avatar" /></a>
-            {% endif %}
-            <div class="header-info">
-              <h1>{{ site.title }}</h1>
-              {% if site.position %}
-              <span class="position">{{ site.position }}</span>
-              {% endif %}
-              <span class="affiliation">{{ site.affiliation }}</span>
-              <div class="social-icons">
-                <a href="mailto:yyu90@ur.rochester.edu"><i class="fas fa-envelope"></i></a>
-                <a href="{{ site.google_scholar }}"><i class="ai ai-google-scholar"></i></a>
-                <a href="{{ site.github_link }}"><i class="fab fa-github"></i></a>
-                <a href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="pub-stats">
-            <p class="header-bio">Ph.D. candidate in the <a href="https://www.cs.rochester.edu/u/jluo/">VIStA Lab</a> at the <a href="https://www.cs.rochester.edu/">University of Rochester</a>, advised by Albert Arendt Hopeman Professor <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>. My research focuses on visual generation models. I've interned at NVIDIA, Adobe Research, and Microsoft Research Asia. On the job market, planning to graduate in 2027.</p>
-            <!-- <div class="pub-stats-headline">
-              <div class="pub-stats-desc"><span class="pub-stats-emphasis">first-authored</span> papers at venues</div>
-            </div>
-            <div class="venue-chips" aria-label="Venues with first-authored papers">
-              <span class="venue-chip">CVPR</span>
-              <span class="venue-chip">ICCV</span>
-              <span class="venue-chip">NeurIPS</span>
-              <span class="venue-chip">ECCV</span>
-              <span class="venue-chip">AAAI</span>
-            </div> -->
-          </div>
+      <header class="masthead">
+        {% if site.avatar %}
+        <a class="avatar"><img src="{{ site.avatar | relative_url }}" {% if site.avatar_hover %}data-hover="{{ site.avatar_hover | relative_url }}"{% endif %} alt="Portrait of {{ site.title }}" width="144" height="144" /></a>
+        {% endif %}
+        <div class="intro">
+          <h1 class="name">{{ site.title }}</h1>
+          <p class="tagline">Visual generation: pixel-space diffusion, editing &amp; restoration.</p>
+          <p class="bio">Ph.D. candidate in the <a href="https://www.cs.rochester.edu/u/jluo/">VIStA Lab</a> at the <a href="https://www.cs.rochester.edu/">University of Rochester</a>, advised by Albert Arendt Hopeman Professor <a href="https://www.cs.rochester.edu/u/jluo/">Jiebo Luo</a>. I've interned at NVIDIA, Adobe Research, and Microsoft Research Asia.</p>
+          <p class="job-market"><mark>On the job market</mark>, planning to graduate in 2027.</p>
+          <nav class="contact" aria-label="Contact and profiles">
+            <a href="mailto:yyu90@ur.rochester.edu"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a>
+            <a href="{{ site.google_scholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i>Scholar</a>
+            <a href="{{ site.github_link }}"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
+            <a href="{{ site.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i>LinkedIn</a>
+          </nav>
         </div>
       </header>
-      <section>
 
+      <main>
       {{ content }}
+      </main>
 
-      <br>
-
-
-      </section>
-      <footer>
-        <br>
-        <br>
+      <footer class="colophon">
+        <span>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</span>
+        <span>Last updated {{ site.time | date: "%b %Y" }}</span>
       </footer>
     </div>
 
-    <div class="image-lightbox" role="dialog" aria-modal="true" aria-label="Expanded publication image" aria-hidden="true">
-      <div class="lightbox-content" role="document">
-        <button type="button" class="lightbox-close" aria-label="Close expanded image">&times;</button>
-        <img class="lightbox-media" src="" alt="">
-        <p class="lightbox-caption"></p>
-      </div>
-    </div>
+    <script src="{{ "/assets/js/vanilla-back-to-top.min.js" | relative_url }}"></script>
+    <script>addBackToTop({ diameter: 40, backgroundColor: 'var(--paper)', textColor: 'var(--ink-2)', showWhenScrollTopIs: 600 })</script>
 
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

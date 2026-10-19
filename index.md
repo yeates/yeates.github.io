@@ -144,15 +144,15 @@ layout: homepage
 <video src="assets/img/pixeldit2_teaser.mp4" poster="assets/img/pixeldit2_teaser_poster.webp" width="960" height="480" autoplay loop muted playsinline aria-label="PixelDiT2 architecture and convergence versus PixelDiT"></video>
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span><a href="https://github.com/NVlabs/PixelDiT"><img src="https://img.shields.io/github/stars/NVlabs/PixelDiT?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2609.24919">PixelDiT2: Representation-Grounded Pixel Diffusion Transformers</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Wei Xiong, Yichen Sheng, Shiqiu Liu, Jiebo Luo</div>
-<div class="venue-full">Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</div>
 <div class="pub-links">
 <a href="https://pixeldit.github.io/pixeldit2/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2609.24919"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/NVlabs/PixelDiT"><i class="fab fa-github"></i> Code</a>
 <a href="https://huggingface.co/nvidia/PixelDiT2-ImageNet"><i class="fas fa-cube"></i> ImageNet Model</a>
+<a class="gh-stars" href="https://github.com/NVlabs/PixelDiT" data-repo="NVlabs/PixelDiT" hidden></a>
 </div>
 </div>
 </div>
@@ -165,16 +165,16 @@ layout: homepage
 <img src="assets/img/pixeldit_teaser.jpg" alt="PixelDiT">
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge">CVPR 2026</span> <span class="venue-badge oral">Oral</span> <span class="venue-badge award">Best Paper Finalist</span> <a href="https://github.com/NVlabs/PixelDiT"><img src="https://img.shields.io/github/stars/NVlabs/PixelDiT?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-venue"><span class="venue-badge">CVPR 2026</span> <span class="venue-badge oral">Oral</span> <span class="venue-badge award">Best Paper Finalist</span></div>
 <div class="pub-title"><a href="https://arxiv.org/pdf/2511.20645">PixelDiT: Pixel Diffusion Transformers for Image Generation</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Wei Xiong, Weili Nie, Yichen Sheng, Shiqiu Liu, Jiebo Luo</div>
-<div class="venue-full">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, Oral &amp; Best Paper Finalist</div>
 <div class="pub-links">
 <a href="https://pixeldit.github.io/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2511.20645"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/NVlabs/PixelDiT"><i class="fab fa-github"></i> Code</a>
 <a href="https://huggingface.co/nvidia/PixelDiT-ImageNet"><i class="fas fa-cube"></i> ImageNet Model</a>
 <a href="https://huggingface.co/nvidia/PixelDiT-1300M-1024px"><i class="fas fa-cube"></i> T2I Model</a>
+<a class="gh-stars" href="https://github.com/NVlabs/PixelDiT" data-repo="NVlabs/PixelDiT" hidden></a>
 </div>
 </div>
 </div>
@@ -187,16 +187,16 @@ layout: homepage
 <video src="assets/img/aurora_teaser.mp4" poster="assets/img/aurora_teaser_poster.webp" width="960" height="480" autoplay loop muted playsinline aria-label="Aurora pipeline, training stages, and editing results"></video>
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span> <a href="https://github.com/yeates/Aurora"><img src="https://img.shields.io/github/stars/yeates/Aurora?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-venue"><span class="venue-badge">NeurIPS 2026</span></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2605.18748">Aurora: Unified Video Editing with a Tool-Using Agent</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Ziyun Zeng, Zhiyuan Xiao, Zhenghong Zhou, Hang Hua, Wei Xiong, Jiebo Luo</div>
-<div class="venue-full">Annual Conference on Neural Information Processing Systems (NeurIPS), 2026</div>
 <div class="pub-links">
 <a href="https://yeates.github.io/Aurora-Page"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2605.18748"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/yeates/Aurora"><i class="fab fa-github"></i> Code</a>
 <a href="https://huggingface.co/yeates/aurora-weights"><i class="fas fa-cube"></i> Model</a>
 <a href="https://huggingface.co/datasets/yeates/aurora-training-data"><i class="fas fa-database"></i> Dataset</a>
+<a class="gh-stars" href="https://github.com/yeates/Aurora" data-repo="yeates/Aurora" hidden></a>
 </div>
 </div>
 </div>
@@ -224,21 +224,21 @@ layout: homepage
 
 <div class="publication-item">
 <div class="pub-row co-first">
-<div class="pub-image">
+<div class="pub-image letterbox light">
 <img src="https://s2.loli.net/2025/03/13/CD58aw3gRuXzjIK.gif" alt="OmniPaint">
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge">ICCV 2025</span> <a href="https://github.com/yeates/OmniPaint"><img src="https://img.shields.io/github/stars/yeates/OmniPaint?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-venue"><span class="venue-badge">ICCV 2025</span></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2503.08677">OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Haitian Zheng, Jiebo Luo</div>
 <!-- <div class="pub-note"><sup>&dagger;</sup> Project lead</div> -->
-<div class="venue-full">IEEE/CVF International Conference on Computer Vision (ICCV), 2025</div>
 <div class="pub-links">
 <a href="https://www.yongshengyu.com/OmniPaint-Page/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2503.08677"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/yeates/OmniPaint"><i class="fab fa-github"></i> Code</a>
 <a href="https://huggingface.co/yeates/OmniPaint"><i class="fas fa-cube"></i> Model</a>
 <a href="https://huggingface.co/datasets/yeates/omnipaint-bench"><i class="fas fa-database"></i> Benchmark</a>
+<a class="gh-stars" href="https://github.com/yeates/OmniPaint" data-repo="yeates/OmniPaint" hidden></a>
 </div>
 </div>
 </div>
@@ -284,7 +284,7 @@ layout: homepage
 
 <div class="publication-item">
 <div class="pub-row first-author">
-<div class="pub-image">
+<div class="pub-image letterbox">
 <video src="assets/img/zipir_teaser.mp4" poster="assets/img/zipir_teaser_poster.webp" width="960" height="540" autoplay loop muted playsinline aria-label="ZipIR-powered Firefly Upscaler 2 in Photoshop"></video>
 </div>
 <div class="pub-content">
@@ -302,20 +302,20 @@ layout: homepage
 
 <div class="publication-item">
 <div class="pub-row co-first">
-<div class="pub-image">
+<div class="pub-image letterbox">
 <img src="https://s2.loli.net/2024/10/04/e7wQchYHOFEJ3ZD.gif" alt="PromptFix">
 </div>
 <div class="pub-content">
-<div class="pub-venue"><span class="venue-badge">NeurIPS 2024</span> <a href="https://github.com/yeates/PromptFix"><img src="https://img.shields.io/github/stars/yeates/PromptFix?style=social" alt="GitHub stars" style="vertical-align: middle; margin-left: 10px;"></a></div>
+<div class="pub-venue"><span class="venue-badge">NeurIPS 2024</span></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2405.16785">PromptFix: You Prompt and We Fix the Photo</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>*, Ziyun Zeng*, Hang Hua, Jianlong Fu, Jiebo Luo</div>
 <!-- <div class="pub-note"><sup>&dagger;</sup> Project lead</div> -->
-<div class="venue-full">Annual Conference on Neural Information Processing Systems (NeurIPS), 2024</div>
 <div class="pub-links">
 <a href="https://www.yongshengyu.com/PromptFix-Page/"><i class="fas fa-globe"></i> Project</a>
 <a href="https://arxiv.org/pdf/2405.16785"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/yeates/PromptFix"><i class="fab fa-github"></i> Code</a>
 <a href="https://huggingface.co/datasets/yeates/PromptfixData"><i class="fas fa-database"></i> Dataset</a>
+<a class="gh-stars" href="https://github.com/yeates/PromptFix" data-repo="yeates/PromptFix" hidden></a>
 </div>
 </div>
 </div>
@@ -391,7 +391,6 @@ layout: homepage
 <div class="pub-venue"><span class="venue-badge">ECCV 2022</span></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2208.11844">Unbiased Multi-Modality Guidance for Image Inpainting</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Dawei Du, Libo Zhang, Tiejian Luo</div>
-<div class="venue-full">European Conference on Computer Vision (ECCV), 2022</div>
 <div class="pub-links">
 <a href="https://arxiv.org/abs/2208.11844"><i class="fas fa-file-pdf"></i> PDF</a>
 <a href="https://github.com/yeates/MMT"><i class="fab fa-github"></i> Code</a>
@@ -409,7 +408,6 @@ layout: homepage
 <div class="pub-venue"><span class="venue-badge">ECCV 2022</span></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2208.11850">High-Fidelity Image Inpainting with GAN Inversion</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Libo Zhang, Heng Fan, Tiejian Luo</div>
-<div class="venue-full">European Conference on Computer Vision (ECCV), 2022</div>
 <div class="pub-links">
 <a href="https://arxiv.org/abs/2208.11850"><i class="fas fa-file-pdf"></i> PDF</a>
 </div>
