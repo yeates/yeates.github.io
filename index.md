@@ -12,7 +12,7 @@ layout: homepage
 
 <div class="news-item">
 <div class="news-date">10/2026</div>
-<div class="news-content"><a href="https://arxiv.org/abs/2504.08591">ZipIR</a>-powered Firefly Upscaler 2 is now in Photoshop Beta, with 6×/8× upscaling up to 67 MP (8192×8192)!</div>
+<div class="news-content"><a href="https://arxiv.org/abs/2504.08591">ZipIR</a>-powered Firefly Upscaler 2 is now in Adobe Photoshop Beta, with 6×/8× upscaling up to 67 MP (8192×8192)!</div>
 </div>
 
 <div class="news-item">
@@ -291,7 +291,7 @@ layout: homepage
 <div class="pub-venue"><span class="venue-badge submission">arXiv 2504.08591</span> <span class="venue-badge award">Shipped in Photoshop</span></div>
 <div class="pub-title"><a href="https://arxiv.org/abs/2504.08591">ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration</a></div>
 <div class="pub-authors"><strong>Yongsheng Yu</strong>, Haitian Zheng, Zhifei Zhang, Jianming Zhang, Yuqian Zhou, Connelly Barnes, Yuchen Liu, Wei Xiong, Zhe Lin, Jiebo Luo</div>
-<div class="pub-note">Powers Adobe Firefly Upscaler 2 (Generative Upscale) in Photoshop Beta, 2026 · U.S. Patent App. No. 19/190,281</div>
+<div class="pub-note">Powers Adobe Firefly Upscaler 2 (Generative Upscale) in Photoshop Beta</div>
 <!-- <div class="venue-full">arXiv preprint, 2025</div> -->
 <div class="pub-links">
 <a href="https://arxiv.org/pdf/2504.08591"><i class="fas fa-file-pdf"></i> PDF</a>
